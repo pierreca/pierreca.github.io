@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Making and Flying</title>
+    <link>http://pierreca.github.io/</link>
+    <description>Recent content on Making and Flying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2016 Pierre Cauchois</copyright>
+    <lastBuildDate>Thu, 17 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pierreca.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>reads</title>
+      <link>http://pierreca.github.io/reads/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pierreca.github.io/reads/</guid>
+      <description>
+
+&lt;h2 id=&#34;started:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Started&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lean Startup (Eric Ries)&lt;/li&gt;
+&lt;li&gt;Thinking Fast and Slow (Daniel Kahneman)&lt;/li&gt;
+&lt;li&gt;The Four Steps to Epiphany (Steve Blank)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;finished:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Finished&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No Place to Hide (Glenn Greenwald)&lt;/li&gt;
+&lt;li&gt;Super Freakonomics (Steven D. Levitt - Stephen J. Dubner)&lt;/li&gt;
+&lt;li&gt;Think Like a Freak (Steven D. Levitt - Stephen J. Dubner)&lt;/li&gt;
+&lt;li&gt;Hooked: How to Build Habit-Forming Products (Nir Eyal)&lt;/li&gt;
+&lt;li&gt;The Code Book: The Science of Secrecy from Ancient (Simon Singh)&lt;/li&gt;
+&lt;li&gt;In the Beginning was the Command Line (Neal Stephenson)&lt;/li&gt;
+&lt;li&gt;The Burning Entrepreneur (Brad Feld)&lt;/li&gt;
+&lt;li&gt;Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)&lt;/li&gt;
+&lt;li&gt;The Peripheral (William Gibson)&lt;/li&gt;
+&lt;li&gt;Stop the BS (Shane Mac)&lt;/li&gt;
+&lt;li&gt;The Martian (Andy Weir)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;next:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Next&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moonwalking with Einstein (Joshua Foer)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>aviation</title>
+      <link>http://pierreca.github.io/aviation/</link>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pierreca.github.io/aviation/</guid>
+      <description>
+
+&lt;h2 id=&#34;training-endorsements:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Training/Endorsements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Private Pilot License&lt;/li&gt;
+&lt;li&gt;Mountain Flying Course&lt;/li&gt;
+&lt;li&gt;High-Performance Endorsement&lt;/li&gt;
+&lt;li&gt;Tailwheel Endorsement&lt;/li&gt;
+&lt;li&gt;Spin Training&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;todo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Complex Endorsement / PA28 Checkout&lt;/li&gt;
+&lt;li&gt;IFR Rating&lt;/li&gt;
+&lt;li&gt;Upset and unusual attitude recovery&lt;/li&gt;
+&lt;li&gt;Cirrus transition course&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;aircrafts:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aircrafts&lt;/h2&gt;
+
+&lt;h3 id=&#34;owned:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Owned&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maule M5-180C&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;checked-out:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Checked Out&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cessna 162&lt;/li&gt;
+&lt;li&gt;Cessna 172N&lt;/li&gt;
+&lt;li&gt;Cessna 172S&lt;/li&gt;
+&lt;li&gt;Cessna 182S&lt;/li&gt;
+&lt;li&gt;Citabria 7KCAB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;flown-with-cfi:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Flown with CFI&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Citabria 7GCBC&lt;/li&gt;
+&lt;li&gt;Husky AA-1B&lt;/li&gt;
+&lt;li&gt;American Champion Scout (Floats)&lt;/li&gt;
+&lt;li&gt;Cirrus SR20&lt;/li&gt;
+&lt;li&gt;PA-11S Cub Special&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;right-seat-passenger:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Right Seat (passenger)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cirrus SR22T&lt;/li&gt;
+&lt;li&gt;Bonanza A36&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;airports:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Airports&lt;/h2&gt;
+
+&lt;h3 id=&#34;pacific-northwest:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pacific Northwest&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Renton (KRNT)&lt;/li&gt;
+&lt;li&gt;Pierce County (KPLU)&lt;/li&gt;
+&lt;li&gt;Boeing Field (KBFI)&lt;/li&gt;
+&lt;li&gt;Paine Field (KPAE)&lt;/li&gt;
+&lt;li&gt;Crest (S36)&lt;/li&gt;
+&lt;li&gt;Auburn (S50)&lt;/li&gt;
+&lt;li&gt;Tacoma-Narrows (KTIW)&lt;/li&gt;
+&lt;li&gt;Port Angeles (KCLM)&lt;/li&gt;
+&lt;li&gt;Chehalis-Centralia (KCLS)&lt;/li&gt;
+&lt;li&gt;Kelso Longview (KKLS)&lt;/li&gt;
+&lt;li&gt;Sanderson (KSHN)&lt;/li&gt;
+&lt;li&gt;Bremerton (KPWT)&lt;/li&gt;
+&lt;li&gt;Skagit-Burlington (KBVS)&lt;/li&gt;
+&lt;li&gt;Bellingham (KBLI)&lt;/li&gt;
+&lt;li&gt;Friday Harbor (KFHR)&lt;/li&gt;
+&lt;li&gt;Hoquiam (KHQM)&lt;/li&gt;
+&lt;li&gt;Ocean Shores (W04)&lt;/li&gt;
+&lt;li&gt;Easton (KESW)&lt;/li&gt;
+&lt;li&gt;Ellensburg (KELN)&lt;/li&gt;
+&lt;li&gt;Ranger Creek (21W)&lt;/li&gt;
+&lt;li&gt;Packwood (55S)&lt;/li&gt;
+&lt;li&gt;Auburn Academy (WA84)&lt;/li&gt;
+&lt;li&gt;Astoria (KAST)&lt;/li&gt;
+&lt;li&gt;Harvey Field (S43)&lt;/li&gt;
+&lt;li&gt;Desert Aire (M94)&lt;/li&gt;
+&lt;li&gt;Toledo (KTDO)&lt;/li&gt;
+&lt;li&gt;Strom Field (39P)&lt;/li&gt;
+&lt;li&gt;Swanson (2W3)&lt;/li&gt;
+&lt;li&gt;Sequim Valley (W28)&lt;/li&gt;
+&lt;li&gt;Jefferson County (0S9)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;california:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;California&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reid-Hillview (KRHV)&lt;/li&gt;
+&lt;li&gt;Frazier Lake (1C9)&lt;/li&gt;
+&lt;li&gt;Salinas (KSNS)&lt;/li&gt;
+&lt;li&gt;Hollister (KCVH)&lt;/li&gt;
+&lt;li&gt;Columbia (O22)&lt;/li&gt;
+&lt;li&gt;Pine Mountain Lake (E45)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;todo-1:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Langley (W10)&lt;/li&gt;
+&lt;li&gt;Cle Elum (S93)&lt;/li&gt;
+&lt;li&gt;Roche Harbor (W39)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;navigation-radio:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigation/Radio&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Across the Cascades (Snoqualmie Pass)&lt;/li&gt;
+&lt;li&gt;RNT-BFI Stadiums Transition&lt;/li&gt;
+&lt;li&gt;Fly around Mt Rainier&lt;/li&gt;
+&lt;li&gt;SeaTac (Burien) Transition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;todo-2:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fly to Canada (and back)&lt;/li&gt;
+&lt;li&gt;Public Fly-In (AOPA or other)&lt;/li&gt;
+&lt;li&gt;Oshkosh&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tools:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ForeFlight&lt;/li&gt;
+&lt;li&gt;Stratus II&lt;/li&gt;
+&lt;li&gt;Bad Elf GPS Pro&lt;/li&gt;
+&lt;li&gt;Jeppesen PPL Ground School&lt;/li&gt;
+&lt;li&gt;Jeppesen G1000 Bundle (VFR)&lt;/li&gt;
+&lt;li&gt;MyFlightBook.com&lt;/li&gt;
+&lt;li&gt;Sporty&amp;#8217;s Aspen Bundle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;books:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Books&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Killing Zone, 2nd Edition: How and Why Pilots Die (Paul Craig)&lt;/li&gt;
+&lt;li&gt;There I Wuz! Adventures from 3 decades in the Sky (Eric Auxier)&lt;/li&gt;
+&lt;li&gt;The Last Bush Pilots (Eric Auxier)&lt;/li&gt;
+&lt;li&gt;Bush Pilot Way (Bill Quirk)&lt;/li&gt;
+&lt;li&gt;Vol de Nuit (Antoine de St Exupery)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;todo-3:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Beyond the Checkride (Howard Fried)&lt;/li&gt;
+&lt;li&gt;Stick and Rudder (Wolfgang Langewiesche)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://pierreca.github.io/about-me/</link>
+      <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pierreca.github.io/about-me/</guid>
+      <description>&lt;p&gt;I build stuff for no other reason than the pleasure of building. I&amp;rsquo;m always trying to learn by doing: if it&amp;rsquo;s not electronics or writing code, it&amp;rsquo;s flying planes.
+I live in Seattle, WA (Go Hawks!) but I&amp;rsquo;m French: please accept my apologies for the bad English and thick accent.&lt;/p&gt;
+
+&lt;p&gt;This is a personal website that has nothing to do with my day job (developer at Microsoft). It&amp;rsquo;s all about sharing my experiences as a maker and a beginner pilot.&lt;/p&gt;
+
+&lt;p&gt;Find me on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/pierreca&#34;&gt;Twitter: @pierreca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;www.linkedin.com/in/pierrecauchois/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My former (and terribly outdated) professional blog can still be found &lt;a href=&#34;http://blogs.msdn.com/pierreca&#34;&gt;here&lt;/a&gt;. (I used to be a developer evangelist back in France).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>http://pierreca.github.io/projects/</link>
+      <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pierreca.github.io/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;hardware:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Hardware&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/dashboards&#34;&gt;Dashboards and utilities for jenkins and github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/SparkLedMatrix&#34;&gt;LED Matrix board driven by a Spark Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Galileo&#34;&gt;Simple 3D model of the Intel Galileo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/LightClock&#34;&gt;LightClock v2&lt;/a&gt; &lt;a href=&#34;http://www.hackster.io/pierreca/lightclock&#34;&gt;Hackster.io&lt;/a&gt;| &lt;a href=&#34;https://hackaday.io/project/2330-LightClock&#34;&gt;Hackaday.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Tyler&#34;&gt;Raspberry-Pi Home Gateway (codename Tyler)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Peggy2GameOfLife&#34;&gt;Naive implementation of Conway&amp;rsquo;s Game Of Life on a Peggy 2 LED Matrix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/b/pierreca/archive/2012/07/11/prototyping-a-connected-object-using-the-net-gadgeteer-the-example-of-a-steampunk-meteo-station.aspx&#34;&gt;.NET Gadgeteer Meteo Station&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/&#34;&gt;Engine Coffee Table&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/&#34;&gt;A list of interesting places for makers around Seattle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Transparent Whiteboard&lt;/li&gt;
+&lt;li&gt;Netduino-Mini Crawler Bot&lt;/li&gt;
+&lt;li&gt;Arduino Crawler Bot&lt;/li&gt;
+&lt;li&gt;Makelangelo 3&lt;/li&gt;
+&lt;li&gt;Lynxmotion Johnny-5&lt;/li&gt;
+&lt;li&gt;OBD-II + GPS Car App&lt;/li&gt;
+&lt;li&gt;Peggy2 Home Display w/ XBee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ideas-dump:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Ideas dump&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3D Flight GPS Log with Excel&lt;/li&gt;
+&lt;li&gt;Arduino Flight Logger&lt;/li&gt;
+&lt;li&gt;Nixie Tube Clock&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;web:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Web&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pierreca.github.io&#34;&gt;This blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.chateaudesarcis.com&#34;&gt;ChateauDesArcis.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs/msdn.com/pierreca&#34;&gt;My old blog (not maintained)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;apps:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Apps&lt;/h2&gt;
+
+&lt;h4 id=&#34;pilot-tools-https-github-com-pierreca-pilottools:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/PilotTools&#34;&gt;Pilot Tools&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Weather and basic flight planning for pilots.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;homecontroller-app-https-github-com-pierreca-homecontrollerapp:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/HomeControllerApp&#34;&gt;HomeController App&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Interfaces with my now defunct home gateway project to control WeMo switches and my Sonos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;deprecated-retired:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Deprecated/Retired&lt;/h2&gt;
+
+&lt;h4 id=&#34;augmented-reality-viewfinder-toolkit-windows-phone-7-5-http-arvftoolkit-codeplex-com:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://arvftoolkit.codeplex.com&#34;&gt;Augmented Reality ViewFinder Toolkit (Windows Phone 7.5)&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Lightweight C# toolkit to build Augmented reality view of geolocalized data with Windows Phone 7.5.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;techdays-2010-conference-official-application:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Techdays 2010 Conference Official Application&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Microsoft Techdays is the largest tech conference in France, organized by Microsoft, where over 16,000 visitors converge each year to get the latest on Microsoft Developer and IT technologies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;klout-kikimeter:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Klout Kikimeter&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Quick exploration with the Klout API&amp;hellip; more intended as a joke than anything (it&amp;rsquo;s klout&amp;hellip;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;pachube-explorer:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pachube Explorer&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Pachube is now Xively. this app allowed to list feeds, graph values, and find feeds around using Augmented Reality (really an excuse to play with the Windows Phone SDK)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;pachube-data-access-layer-http-pachubedal-codeplex-com:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://pachubedal.codeplex.com&#34;&gt;Pachube Data Access Layer&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This small .Net MicroFramework piece of code offers simplistic APIs to upload data to Pachube (now Xively).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;hackathon-achievements:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Hackathon Achievements&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Social app running on Windows 8 and Windows Phone 8 used during Hackathons to give &amp;ldquo;badges&amp;rdquo; to hackathons participants. When &amp;ldquo;Gamification&amp;rdquo; sounded cool. Also a nice excuse to play with Azure Mobile Services.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;wowwee-rovio-control-app:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Wowwee Rovio Control App&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;the Rovio from Wowwee is a little video mobile robot. this app was built to control it and look at its video feed. My Rovio died, so did the app&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Simple 3D Model of the Intel Galileo Board</title>
+      <link>http://pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:03 -0700</pubDate>
+      
+      <guid>http://pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</guid>
+      <description>&lt;div class=&#39;post&#39;&gt;
+&lt;p&gt;I published &lt;a href=&#34;https://github.com/pierreca/Galileo&#34;&gt;a very simplistic 3d model of Intels Galileo (v1) board&lt;/a&gt; on Github 2 days ago. It was built using OpenScad and the code is available as well as the exported STL file.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/pierreca/Galileo/master/Images/galileo_v1_3d.PNG&#34; alt=&#34;Galileo 3D model image&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;I rely on 3D models a lot during the design of any project because its a way for me to cut on prototyping costs and times. One thing that often leaves me wanting more with a lot of projects I see from makers is the fact that it stays on a breadboard. Theres rarely any PCB design, and even more rarely enclosure or industrial design that would make the thing sturdy and reliable enough to function on something else than a desk I guess Ill write about that and maybe some techniques that I have found useful later&lt;/p&gt;
+
+&lt;p&gt;Please try this design with various enclosures, use it, and let me know if it works well or if somethings off!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7 Bad Reasons Not to Finish Projects (With Antidotes)</title>
+      <link>http://pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</link>
+      <pubDate>Mon, 18 Aug 2014 00:10:15 -0700</pubDate>
+      
+      <guid>http://pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</guid>
+      <description>&lt;div class=&#39;post&#39;&gt;
+&lt;p&gt;Years of tinkering with electronics and building apps on week-ends and evenings, and recently I have found myself thinking that I never really finish anything. It has been bugging me to a point where I felt really bad about it The weird thing is, its not at all the same at work. Im focused and I always have a clear idea of whats done, whats expected and I know when and how to deliver things on time and meeting my team QA standards.&lt;br&gt;
+I also realized I know of a lot of people feeling the same with their own projects, so lets share: heres whats going on in my maker head, and how I snap out of it and get things done, slowly, but surely. Maybe youll recognize some of the symptoms, hopefully youll find something useful here.&lt;/p&gt;
+
+&lt;h3&gt;1. The 99 projects syndrome&lt;/h3&gt;
+
+&lt;p&gt;If only I had one single project. I have 99 projects and every night as I go to sleep I think about yet another one, that I will probably start soon because Im so thrilled by that brilliant new idea and Ill leave the rest for later. I simply start more projects than I can finish.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I now give myself a one week cool down period not only to think about the project but also to understand if I really want do it fully, or if its just a fad. Just in case, I add it to &lt;a href=&#34;http://pierreca.github.io/projects&#34;&gt;my bucket list&lt;/a&gt; and when I finish something I look into this list to decide whats next.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;2. I already know how to finish this&lt;/h3&gt;
+
+&lt;p&gt;That project was fun because it was an enigma to solve, a mind game. Now that I know how to solve it, it has lost its interest. Compared to a new project, it feels like Ill learn less just finishing the first one.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thats lack of experience speaking. The more I grow, the less I feel this, because I know that until somethings shipped, no-one knows what problems will happen during real-life implementation.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;3. Its someone elses fault if Im blocked&lt;/h3&gt;
+
+&lt;p&gt;I had found this really cool way of solving a particular issue, using that open-source project. Unfortunately it has bugs, that prevent me from moving forward. Their fault, not mine, me thinks.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Little voice in my head: Its open-source, moron. fix it yourself! 9 times out of 10 its easier than I think.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;4. It takes too much time!&lt;/h3&gt;
+
+&lt;p&gt;So I thought it was going to be easy, and it turns out its not. That particular component is going to take me days to finish, Im not seeing the end of it. The sheer amount of work left scares me.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;OK, its bad planning. Why did I think otherwise at the beginning? What did I learn since then? Feeling good about this maker-life lesson, then committing to not making this mistake again gives me motivation to push forward.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;5. I bought that thing but I have no idea what to do with it&lt;/h3&gt;
+
+&lt;p&gt;Shiny new toy, ordered too fast I even bought the accessories and paid for the 2-day delivery option! When it was delivered I feverishly unboxed it. Then followed the getting started instructions. Then what? errr Im not sure. I could use it to restart this other project but it would likely take longer than finish it with the old kit. OK, Im just going to put that new toy on a shelf for when I need it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I now add it to the bucket list instead of buying it. Then I think about what I could finish quickly to free some time and buy that shiny new toy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;6. Its a working prototype but its ugly and I dont know how to make it pretty&lt;/h3&gt;
+
+&lt;p&gt;Its working! its alive! but I dont want to call it done because its ugly. Its still on a breadboard, I need to find a way to do the enclosure too. Or maybe I spent hours designing an enclosure and $$ laser cutting it just to end up with an ugly impractical thing. Now Im depressed and I dont have the energy to move to v2. And I dont want to show it like that.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Whatever Ill show it anyway. Heres my ugly &lt;a href=&#34;http://github.com/pierreca/LightClock&#34;&gt;LightClock&lt;/a&gt;. Its not pretty but its v1, its better than nothing at all. v2 is coming anyway :)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;7. I keep adding features, its never stable!&lt;/h3&gt;
+
+&lt;p&gt;Basics are done :) This project does stuff, but as it grows I keep adding features, so its actually never in a shippable state and now that I have started these new features I need to finish them.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Again, lack of experience, I find myself making that mistake less and less. Working with github and feature branches as if I were part of a team help me separate must-have items from nice-to-have. Adopting the MVP mindset from the startup culture helps a lot. Ship early, ship often, even if youre your only user.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;7 additional tips that help me (hint: combine them!)&lt;/h2&gt;
+
+&lt;h3&gt;1. Build some social pressure&lt;/h3&gt;
+
+&lt;p&gt;Get one or more real users excited about it: friends, family, colleagues, followers Tell them about what youd like to build, it will likely help you find out if its really interesting, and then keep them posted about it! As soon as you can, add it to your github account, or publish it on &lt;a href=&#34;http://www.hackster.io&#34;&gt;hackster.io&lt;/a&gt; or &lt;a href=&#34;http://www.hackaday.io&#34;&gt;hackaday.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;2. Start small&lt;/h3&gt;
+
+&lt;p&gt;An optimal solution to a problem is a combination of optimal solutions for subproblems. Thats one thing of an old dynamic programming course that stuck. Split your project in subproblems, and start solving one of them. Then ship it and move to the next one. Split it into as many smaller problems as you can. And ship every subproblem solution.&lt;/p&gt;
+
+&lt;h3&gt;3. Dont start something new until you shipped the previous thing&lt;/h3&gt;
+
+&lt;p&gt;Sure that new ideas cool, but you ought to finish the one youre working on first. The motivation for the next project will help you finish the current one. Just make sure your idea doesnt go to waste, write it somewhere. Thats why I created &lt;a href=&#34;http://pierreca.github.io/projects/&#34;&gt;this page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;4. Find a coach/mentor/instructor/teacher&lt;/h3&gt;
+
+&lt;p&gt;That project may not be a team project, but it doesnt mean you cant get help from others. Especially someone with more experience. I bet not many private pilot students would get to the checkride if it wasnt for that spark of motivation that a good instructor can give you when you botch a shortfield landing for the tenth time. More often that not people will be honored to be asked to mentor a project, even a silly one :)&lt;/p&gt;
+
+&lt;h3&gt;5. Set a deadline&lt;/h3&gt;
+
+&lt;p&gt;Its certainly the easiest/dumbest advice of the list, cause really, everybody knows that setting deadlines help Surprisingly though, not many people do it for personal projects. Combined with social pressure, its a huge motivation nonetheless. Think about how you would like to reveal your project to others: find the perfect time for that, and go for it. Getting that Private Pilot License before I go back to see the friend who offered me my first ride in a small airplane sure was important.&lt;/p&gt;
+
+&lt;h3&gt;6. Maintain bucket lists&lt;/h3&gt;
+
+&lt;p&gt;Lists are easy to keep updated. They are great to remind you not only what you have coming next, but also what you have achieved already. That &lt;a href=&#34;http://pierreca.github.io/projects/&#34;&gt;projects page&lt;/a&gt; is a portfolio, an agenda, and a tool to help me apply tips #1, #3 and #5.&lt;/p&gt;
+
+&lt;h3&gt;7. Always remember why youre doing it&lt;/h3&gt;
+
+&lt;p&gt;Whats the motivation? Why am I doing this? Because its fun is not an acceptable answer anymore, there is always a deeper motive anyway: before I set on doing something, I commit to finding the real purpose for that project first.&lt;/p&gt;
+
+&lt;p&gt;So whats going to work best for you?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building a Coffee Table With Engine Blocks</title>
+      <link>http://pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</link>
+      <pubDate>Tue, 12 Aug 2014 19:57:36 -0700</pubDate>
+      
+      <guid>http://pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</guid>
+      <description>&lt;div class=&#39;post&#39;&gt;
+&lt;p&gt;Ever since I had seen coffee table on the british TV show called Top Gear (made from a Jaguar V12 engine) I wanted to have an engine-based coffee table. A quick search on the Web showed that anyone can buy that for just over a thousand bucks but I also found a handful of results from people who had done that before and were showing it on some forums: so I set out to build my own.&lt;/p&gt;
+
+&lt;p&gt;Heres what I discovered along the way. Hopefully itll help you build your own!&lt;/p&gt;
+
+&lt;h2&gt;Picking the engine&lt;/h2&gt;
+
+&lt;p&gt;Most car engine are not that big. Even V6 blocks can be pretty small (barely over a cubic foot). So most tables made out of a single engine block are small, or at least smaller than I wanted: these table are 3 feet long, 4 max.
+6 cylinders inline engines are about 2 feet long, but very narrow. So when you set out to buy one, make sure to measure it and then factor in how youre going to rest or affix the table itself on it: an engine block is not necessarily flat.&lt;/p&gt;
+
+&lt;p&gt;If you search long enough for it you might find some service manual or schematics of the engine you want on the internet. It can help, even if it&amp;#x2019;s in German: the technical drawings and dimensions will help you design the object before you actually buy the part.&lt;/p&gt;
+
+&lt;p&gt;While in the process of choosing and engine, I tried to pick one that looked good, but also learned about its history. I ended up looking specifically for 6 cylinders inline from BMW mainly because of the form factor (long enough and perfectly flat) but also because I like the brand, and because it&amp;#x2019;s an engine which performances were acclaimed all these years. The current generation (M54) is used in most powerful BMWs, and its sport version (S52/S54) powers the legendary M series. I ended getting really lucky on Craigslist, and found a pair of identical M52: it was produced at the end of the 90s, which is when BMW moved from cast iron blocks to aluminum, the latter being much lighter which is important, because an engine is heavy. Depending on how many parts are still in it (camshaft, pistons) it can be several hundred pounds. You will need a friend or two to help you carry it, and presumably a very sturdy dolly.&lt;/p&gt;
+
+&lt;h2&gt;Buying the engine&lt;/h2&gt;
+
+&lt;p&gt;I strongly suggest you go and see it before you buy it. If possible, turn the crankshaft to see if the pistons move freely, if still in there. Make sure its in a good enough shape that you can take it apart fully (you probably only need the engine block, so maybe you can get the seller to give you a better price for only that part, and let him sell the rest separately or you can do it yourself! That way you can keep some of the parts for other projects. Some people also use pistons to make feet for the table&lt;/p&gt;
+
+&lt;p&gt;On the day you take it home, bring friends to lift it in and out of the trunk, and bring tarp or cardboard to protect your car. An engine block is greasy and can leak fluids even if its been in a garage for years. Heres what my engine blocks looked like when I brought them home (we had cleaned them before putting them in the trunk with a water jet)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.github.com/pierreca/pierreca.github.io/source/images/engine/engines_dirty.jpg&#34; alt=&#34;Dirty Engine Blocks&#34;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Tearing the engine apart&lt;/h2&gt;
+
+&lt;p&gt;An engine is hard to dismantle. You will need space, and some tools. Don&amp;#x2019;t try to use cheap or tools that almost fit the bolt but dont. They will break and you will hurt yourself, which wouldn&amp;#x2019;t even be as bad as putting a dent on the block or rounding a bolt.&lt;/p&gt;
+
+&lt;p&gt;Also know that the place where you will work on this project will be dirty. Engine grease, oil, chemicals&amp;#x2026; you will need gloves, detergent, and you will leave smudges on everything you touch while working on it.&lt;/p&gt;
+
+&lt;p&gt;The hardest part for me was the Crankshaft bolt: its very tightly screwed, a few hundreds PSIs. Youll need either a big lever and a way to lock the crankshaft in place, or an impact driver: a pneumatic one, electric impact drivers are just not strong enough. Easiest way to solve the problem: find a garage with a friendly mechanic who could loosen it for you, they have the tools, itll take them half a minute. Also, you&amp;#x2019;ll have to find out beforehand if it is reverse-threaded or not&amp;#x2026; just to make sure youre unscrewing the bolt and not tightening it!
+Finally if pulleys are still on the block, you may need a special pulley removal tool. Again, a mechanic can help you with that (these are not easy to find and can sometimes be ordered only by dealerships).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.github.com/pierreca/pierreca.github.io/source/images/engine/engine_crankshaft.jpg&#34; alt=&#34;Crankshaft&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;All these questions make a case for why you should look for the engine service manual and schematics :)&lt;/p&gt;
+
+&lt;h2&gt;Cleaning, sanding and polishing&lt;/h2&gt;
+
+&lt;p&gt;An engine is dirty. You&amp;#x2019;ll need it cleaned. If you try to clean it yourself there will be water, chemicals and engine grease everywhere so I suggest you avoid doing that that in the street or your lawn. If you do that in your driveway, clean it very thoroughly after if you don&amp;#x2019;t want to skid the next time you drive on it. You will need a high pressure jet, an industrial degreaser and a lot of time Since I live in an apartment I ended up finding a garage that had a hot jets parts cleaner. It will cost you a few bucks but will save you a lot of time and trouble.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.github.com/pierreca/pierreca.github.io/source/images/engine/engine_cleaned.jpg&#34; alt=&#34;After Cleaning&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see cleaning will not be enough! you&amp;#x2019;ll need to do some sanding and polishing too and maybe remove rust&amp;#x2026; a chemical rust remover will do the big part of the job, sanding should do the rest. You will need to do most of it manually or with a small rotary tool like a Dremel. Give it half a day, prepare to make some noise, and it will generate a lot of metal dust so wear a breathing mask during that operation and protective goggles Trust me on this one, I didn&amp;#x2019;t and whatever came out of my nose in the next days was black and did not look healthy&amp;#x2026;&lt;/p&gt;
+
+&lt;p&gt;When sanding, start with the inside (cylinders) and finish with the outside and the top. Clean and vacuum the dust regularly. Sanding is a 3 steps process: first start with rough grain sand paper to make the surface even, then medium grain to remove the scratches, then fine grain to make it shiny and clean.&lt;/p&gt;
+
+&lt;h2&gt;Assembling the table&lt;/h2&gt;
+
+&lt;p&gt;That&amp;#x2019;s where you can get creative (or not&amp;#x2026; I just rested a glass sheet on top of the engines with some transparent vinyl spacers). Make sure the table doesn&amp;#x2019;t tip or break when something heavy sits on top of it. Use tempered (also called safety) glass. Normal glass will break. Also, you should know that the weakest point of a tempered glass sheet is bezel, so be extra careful when moving it or storing it vertically.&lt;/p&gt;
+
+&lt;p&gt;Heres what the final result looks like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.github.com/pierreca/pierreca.github.io/source/images/engine/table_final.jpg&#34; alt=&#34;Table: Final Result&#34;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Time and Cost&lt;/h2&gt;
+
+&lt;p&gt;This will vary a lot depending on the parts you pick. Heres what it was for me:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2 engine blocks: $300&lt;/li&gt;
+&lt;li&gt;Cleaning it at a shop: ~$120&lt;/li&gt;
+&lt;li&gt;Missing tools: $50-$100&lt;/li&gt;
+&lt;li&gt;Time: ~20-30 hours&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interesting Places for Makers Around Seattle</title>
+      <link>http://pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</link>
+      <pubDate>Tue, 05 Aug 2014 22:28:37 -0700</pubDate>
+      
+      <guid>http://pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</guid>
+      <description>&lt;div class=&#39;post&#39;&gt;
+&lt;p&gt;18 months ago, I moved from Paris, France to Seattle, WA. Since then Ive been working on a few personal projects that have taken me around the Seattle area in search for maker resources and shops Heres what I found so far&lt;/p&gt;
+
+&lt;h2&gt;Electronics parts&lt;/h2&gt;
+
+&lt;h3&gt;Vetco Electronics&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.vetco.net&#34;&gt;http://www.vetco.net&lt;/a&gt;&lt;br&gt;
+12718 Northup Way, Suite 100, Bellevue, WA 98005
+(425) 641-7275&lt;/p&gt;
+
+&lt;p&gt;Vetco is located in Bellevue, WA, and its a shop with 2 floors of electronics components from the 60s to the most recent ones. They carry Arduino and Arduino-related boards and all the individual components you can dream about. They also have scopes, soldering irons, and though the price is high, its the kind of shop you go to just to reward its very existence.&lt;/p&gt;
+
+&lt;h3&gt;Frys&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.frys.com&#34;&gt;http://www.frys.com&lt;/a&gt; &lt;br&gt;
+800 Garden Ave N, Renton, WA 98057&lt;br&gt;
+(425) 525-0200&lt;/p&gt;
+
+&lt;p&gt;Frys Electronics is like a big department store for anything powered with electricity: from washing machines, to computers, to TV sets, gaming consoles, laptops, PC parts, electronics parts and tools, arduinos in short, everything, at a very decent price. This being said, like any chain/department store, dont expect any kind of service. youre on your own until you hit a pushy sales guy who barely knows what hes talking about&lt;/p&gt;
+
+&lt;h3&gt;Radioshack&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Radioshack has many stores all over town&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Radioshack is trying to become relevant again in the maker scene: hidden behind cellphone accessories aisles, youll find basic tools, components and Arduinos. When you have nowhere else to go and crave for an evening or week end project&lt;/p&gt;
+
+&lt;h2&gt;Hackerspaces&lt;/h2&gt;
+
+&lt;h3&gt;Metrix Create Space&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.metrixcreatespace.com&#34;&gt;http://www.metrixcreatespace.com&lt;/a&gt;&lt;br&gt;
+623 Broadway E, Seattle, WA 98102&lt;br&gt;
+(206) 357-9406&lt;/p&gt;
+
+&lt;p&gt;Metrix Creative Space is small and awesome. They have an vending machine full of parts that is really cool, multiple 3D printers, CNC, laser cutter, a soldering room, tons of tools.. and even a protolaser LPKF machine that is really impressive for fast prototyping. They have workshops on every possible maker-related topics every week.. Its a great place to hang out, and the people are friendly. Plus you get to meet the guys from OpenBeam and the creator of the Kossel Pro!&lt;/p&gt;
+
+&lt;h3&gt;Makerhaus&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.makerhaus.com&#34;&gt;http://www.makerhaus.com&lt;/a&gt;&lt;br&gt;
+122 NW 36th St, Seattle, WA 98107&lt;br&gt;
+(206) 457-8968&lt;/p&gt;
+
+&lt;p&gt;I have been to Makerhaus in Fremont only once: its a fairly recent and large hackerspace, with tons of equipment. The membership prices seem crazy expensive to me but I guess its the price to pay for top notch wood and metal shops.&lt;/p&gt;
+
+&lt;h2&gt;Books&lt;/h2&gt;
+
+&lt;h3&gt;Adas Bookstore&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://seattletechnicalbooks.com&#34;&gt;http://seattletechnicalbooks.com&lt;/a&gt;&lt;br&gt;
+425 15th Ave East, Seattle, WA 98112 &lt;br&gt;
+(206) 322-1058&lt;/p&gt;
+
+&lt;p&gt;Ada&amp;#x2019;s bookstore is awesome: its grown from a small bookstore into a full fledged coffee shop, bookstore, electronics shop, and coworking space.&lt;/p&gt;
+
+&lt;p&gt;They have delicious homebrew coffee and pastries, plenty of magazines and books on every imaginable nerdy topic, from programming books to science to science fiction and a quite a few electronics kits for an impromptu week-end project.&lt;/p&gt;
+
+&lt;h3&gt;Elliott Bay Bookstore&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.elliottbaybook.com&#34;&gt;http://www.elliottbaybook.com&lt;/a&gt;&lt;br&gt;
+1521 10th Avenue, Seattle WA 98122&lt;br&gt;
+(206) 624-6600&lt;/p&gt;
+
+&lt;p&gt;Its a beautiful bookstore: large, but not too much, in an old building, and it just feels like it belongs here. Its big enough that youll find a good selection of books no matter what youre looking for, including technical books.&lt;/p&gt;
+
+&lt;h2&gt;Hardware&lt;/h2&gt;
+
+&lt;h3&gt;Pacific Supply&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.pacsupply.com&#34;&gt;http://www.pacsupply.com&lt;/a&gt;&lt;br&gt;
+1417 12th Avenue, Seattle, WA 98122&lt;br&gt;
+(206) 322-1717&lt;/p&gt;
+
+&lt;p&gt;Pacific Supply is in the center of Capitol Hill. Theres nothing special to it, besides its location and cool old building. Useful if you live on the Hill and dont want to take a car just to buy a lightbulb or a piece of rope&lt;/p&gt;
+
+&lt;h3&gt;Hardwick  Sons&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ehardwicks.com&#34;&gt;http://www.ehardwicks.com&lt;/a&gt;&lt;br&gt;
+4214 Roosevelt Way NE, Seattle, WA 98105&lt;br&gt;
+(206) 632-1203&lt;/p&gt;
+
+&lt;p&gt;Hardwicks was featured in Popular Mechanics for a good reason: its a good old hardware shop that looks like Grandpas attic, except, cleaner. Its in the middle of University district and has rarities at a price.&lt;/p&gt;
+
+&lt;h3&gt;Lowes, Home Depot, Harbor Freight, Sears&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;All of these have many locations in the Seattle area and are easy to find&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;These are a few big names for any kind of tools or materials for the maker: they are hardware superstores, with everything that this implies: barely any service from a staff that tries to look busy, and everything from lousy to high-end tools. They have mostly the same prices though the low cost brands will change.&lt;/p&gt;
+
+&lt;p&gt;As far as tools are concerned, I stick with Sears. Sears carry Craftsman tools, and these are sturdy, professional quality tools, at a decent price. What I like is that these are guaranteed for life: you break a Craftsman tool, bring it back to Sears and get a new one, free.&lt;/p&gt;
+
+&lt;h2&gt;Custom-Cut Glass&lt;/h2&gt;
+
+&lt;h3&gt;Sunset Glass&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sunsetglass.com&#34;&gt;http://sunsetglass.com&lt;/a&gt;&lt;br&gt;
+11660 N.E. 8th Bellevue, Washington 98005&lt;br&gt;
+(425) 454-5087&lt;/p&gt;
+
+&lt;p&gt;Home Depot and Lowe&amp;#x2019;s cut small pieces of glass but they have the advantage of also offering different kinds of plastic, acrylics and Lexan. However if you have a particular need for a large sheet of glass, I found Sunset Glass. It&amp;#x2019;s in Bellevue, in front of Eastside rentals. They have every kind of glass you might dream of, with different thicknesses, they are very nice, and the prices seemed fair. They can also recommend you to other places to have your glass customized if necessary (etching, etc).
+There&amp;#x2019;s also Perkins on Broadway in Capitol Hill, Seattle, but I haven&amp;#x2019;t been there.&lt;/p&gt;
+
+&lt;h2&gt;Plastics, Acrylic, Lexan&lt;/h2&gt;
+
+&lt;h3&gt;Tap Plastics&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.tapplastics.com&#34;&gt;http://www.tapplastics.com&lt;/a&gt;  &lt;br&gt;
+12021 NE Northup Way, Bellevue, WA 98005&lt;br&gt;
+(425) 502-7225&lt;/p&gt;
+
+&lt;p&gt;Ive only been to the Bellevue location but they also have shops in South Lake Union and Lynnwood apparently. I buy acrylic sheets for custom enclosures and laser-cut them at Metrix Create Space. The best shop Ive found is Tap Plastics, in Bellevue, WA.&lt;/p&gt;
+
+&lt;h2&gt;Mechanical parts&lt;/h2&gt;
+
+&lt;h3&gt;Warden Fluid Dynamics&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wfdonline.com&#34;&gt;http://www.wfdonline.com&lt;/a&gt;&lt;br&gt;
+1515 NW Ballard Way, Seattle, WA 98107&lt;br&gt;
+(206) 633-0382&lt;/p&gt;
+
+&lt;p&gt;If you like 80/20, They have 2 distributors in the Seattle area and I have been in touch with this one. They have been really helpful and quick to reply.&lt;/p&gt;
+
+&lt;p&gt;If youre looking for the same kind of aluminium profiles for smaller projects, check out the OpenBeam aisle at Metrix Create Space.&lt;/p&gt;
+
+&lt;p&gt;For anything mechanical Ive also been told about a company called Grainger, never been there though.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

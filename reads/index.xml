@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reads on Making and Flying</title>
+    <link>http://pierreca.github.io/reads/</link>
+    <description>Recent content in Reads on Making and Flying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2016 Pierre Cauchois</copyright>
+    <lastBuildDate>Thu, 17 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pierreca.github.io/reads/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>reads</title>
+      <link>http://pierreca.github.io/reads/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pierreca.github.io/reads/</guid>
+      <description>
+
+&lt;h2 id=&#34;started:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Started&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lean Startup (Eric Ries)&lt;/li&gt;
+&lt;li&gt;Thinking Fast and Slow (Daniel Kahneman)&lt;/li&gt;
+&lt;li&gt;The Four Steps to Epiphany (Steve Blank)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;finished:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Finished&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No Place to Hide (Glenn Greenwald)&lt;/li&gt;
+&lt;li&gt;Super Freakonomics (Steven D. Levitt - Stephen J. Dubner)&lt;/li&gt;
+&lt;li&gt;Think Like a Freak (Steven D. Levitt - Stephen J. Dubner)&lt;/li&gt;
+&lt;li&gt;Hooked: How to Build Habit-Forming Products (Nir Eyal)&lt;/li&gt;
+&lt;li&gt;The Code Book: The Science of Secrecy from Ancient (Simon Singh)&lt;/li&gt;
+&lt;li&gt;In the Beginning was the Command Line (Neal Stephenson)&lt;/li&gt;
+&lt;li&gt;The Burning Entrepreneur (Brad Feld)&lt;/li&gt;
+&lt;li&gt;Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)&lt;/li&gt;
+&lt;li&gt;The Peripheral (William Gibson)&lt;/li&gt;
+&lt;li&gt;Stop the BS (Shane Mac)&lt;/li&gt;
+&lt;li&gt;The Martian (Andy Weir)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;next:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Next&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moonwalking with Einstein (Joshua Foer)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aviations on Making and Flying</title>
+    <link>http://pierreca.github.io/aviation/</link>
+    <description>Recent content in Aviations on Making and Flying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2016 Pierre Cauchois</copyright>
+    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pierreca.github.io/aviation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>aviation</title>
+      <link>http://pierreca.github.io/aviation/</link>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pierreca.github.io/aviation/</guid>
+      <description>
+
+&lt;h2 id=&#34;training-endorsements:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Training/Endorsements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Private Pilot License&lt;/li&gt;
+&lt;li&gt;Mountain Flying Course&lt;/li&gt;
+&lt;li&gt;High-Performance Endorsement&lt;/li&gt;
+&lt;li&gt;Tailwheel Endorsement&lt;/li&gt;
+&lt;li&gt;Spin Training&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;todo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Complex Endorsement / PA28 Checkout&lt;/li&gt;
+&lt;li&gt;IFR Rating&lt;/li&gt;
+&lt;li&gt;Upset and unusual attitude recovery&lt;/li&gt;
+&lt;li&gt;Cirrus transition course&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;aircrafts:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aircrafts&lt;/h2&gt;
+
+&lt;h3 id=&#34;owned:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Owned&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maule M5-180C&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;checked-out:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Checked Out&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cessna 162&lt;/li&gt;
+&lt;li&gt;Cessna 172N&lt;/li&gt;
+&lt;li&gt;Cessna 172S&lt;/li&gt;
+&lt;li&gt;Cessna 182S&lt;/li&gt;
+&lt;li&gt;Citabria 7KCAB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;flown-with-cfi:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Flown with CFI&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Citabria 7GCBC&lt;/li&gt;
+&lt;li&gt;Husky AA-1B&lt;/li&gt;
+&lt;li&gt;American Champion Scout (Floats)&lt;/li&gt;
+&lt;li&gt;Cirrus SR20&lt;/li&gt;
+&lt;li&gt;PA-11S Cub Special&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;right-seat-passenger:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Right Seat (passenger)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cirrus SR22T&lt;/li&gt;
+&lt;li&gt;Bonanza A36&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;airports:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Airports&lt;/h2&gt;
+
+&lt;h3 id=&#34;pacific-northwest:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pacific Northwest&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Renton (KRNT)&lt;/li&gt;
+&lt;li&gt;Pierce County (KPLU)&lt;/li&gt;
+&lt;li&gt;Boeing Field (KBFI)&lt;/li&gt;
+&lt;li&gt;Paine Field (KPAE)&lt;/li&gt;
+&lt;li&gt;Crest (S36)&lt;/li&gt;
+&lt;li&gt;Auburn (S50)&lt;/li&gt;
+&lt;li&gt;Tacoma-Narrows (KTIW)&lt;/li&gt;
+&lt;li&gt;Port Angeles (KCLM)&lt;/li&gt;
+&lt;li&gt;Chehalis-Centralia (KCLS)&lt;/li&gt;
+&lt;li&gt;Kelso Longview (KKLS)&lt;/li&gt;
+&lt;li&gt;Sanderson (KSHN)&lt;/li&gt;
+&lt;li&gt;Bremerton (KPWT)&lt;/li&gt;
+&lt;li&gt;Skagit-Burlington (KBVS)&lt;/li&gt;
+&lt;li&gt;Bellingham (KBLI)&lt;/li&gt;
+&lt;li&gt;Friday Harbor (KFHR)&lt;/li&gt;
+&lt;li&gt;Hoquiam (KHQM)&lt;/li&gt;
+&lt;li&gt;Ocean Shores (W04)&lt;/li&gt;
+&lt;li&gt;Easton (KESW)&lt;/li&gt;
+&lt;li&gt;Ellensburg (KELN)&lt;/li&gt;
+&lt;li&gt;Ranger Creek (21W)&lt;/li&gt;
+&lt;li&gt;Packwood (55S)&lt;/li&gt;
+&lt;li&gt;Auburn Academy (WA84)&lt;/li&gt;
+&lt;li&gt;Astoria (KAST)&lt;/li&gt;
+&lt;li&gt;Harvey Field (S43)&lt;/li&gt;
+&lt;li&gt;Desert Aire (M94)&lt;/li&gt;
+&lt;li&gt;Toledo (KTDO)&lt;/li&gt;
+&lt;li&gt;Strom Field (39P)&lt;/li&gt;
+&lt;li&gt;Swanson (2W3)&lt;/li&gt;
+&lt;li&gt;Sequim Valley (W28)&lt;/li&gt;
+&lt;li&gt;Jefferson County (0S9)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;california:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;California&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reid-Hillview (KRHV)&lt;/li&gt;
+&lt;li&gt;Frazier Lake (1C9)&lt;/li&gt;
+&lt;li&gt;Salinas (KSNS)&lt;/li&gt;
+&lt;li&gt;Hollister (KCVH)&lt;/li&gt;
+&lt;li&gt;Columbia (O22)&lt;/li&gt;
+&lt;li&gt;Pine Mountain Lake (E45)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;todo-1:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Langley (W10)&lt;/li&gt;
+&lt;li&gt;Cle Elum (S93)&lt;/li&gt;
+&lt;li&gt;Roche Harbor (W39)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;navigation-radio:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Navigation/Radio&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Across the Cascades (Snoqualmie Pass)&lt;/li&gt;
+&lt;li&gt;RNT-BFI Stadiums Transition&lt;/li&gt;
+&lt;li&gt;Fly around Mt Rainier&lt;/li&gt;
+&lt;li&gt;SeaTac (Burien) Transition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;todo-2:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fly to Canada (and back)&lt;/li&gt;
+&lt;li&gt;Public Fly-In (AOPA or other)&lt;/li&gt;
+&lt;li&gt;Oshkosh&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tools:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ForeFlight&lt;/li&gt;
+&lt;li&gt;Stratus II&lt;/li&gt;
+&lt;li&gt;Bad Elf GPS Pro&lt;/li&gt;
+&lt;li&gt;Jeppesen PPL Ground School&lt;/li&gt;
+&lt;li&gt;Jeppesen G1000 Bundle (VFR)&lt;/li&gt;
+&lt;li&gt;MyFlightBook.com&lt;/li&gt;
+&lt;li&gt;Sporty&amp;#8217;s Aspen Bundle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;books:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Books&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Killing Zone, 2nd Edition: How and Why Pilots Die (Paul Craig)&lt;/li&gt;
+&lt;li&gt;There I Wuz! Adventures from 3 decades in the Sky (Eric Auxier)&lt;/li&gt;
+&lt;li&gt;The Last Bush Pilots (Eric Auxier)&lt;/li&gt;
+&lt;li&gt;Bush Pilot Way (Bill Quirk)&lt;/li&gt;
+&lt;li&gt;Vol de Nuit (Antoine de St Exupery)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;todo-3:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Beyond the Checkride (Howard Fried)&lt;/li&gt;
+&lt;li&gt;Stick and Rudder (Wolfgang Langewiesche)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

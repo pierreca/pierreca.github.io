@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Making and Flying</title>
+    <link>http://pierreca.github.io/projects/</link>
+    <description>Recent content in Projects on Making and Flying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2016 Pierre Cauchois</copyright>
+    <lastBuildDate>Sun, 21 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pierreca.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>projects</title>
+      <link>http://pierreca.github.io/projects/</link>
+      <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://pierreca.github.io/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;hardware:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Hardware&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/dashboards&#34;&gt;Dashboards and utilities for jenkins and github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/SparkLedMatrix&#34;&gt;LED Matrix board driven by a Spark Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Galileo&#34;&gt;Simple 3D model of the Intel Galileo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/LightClock&#34;&gt;LightClock v2&lt;/a&gt; &lt;a href=&#34;http://www.hackster.io/pierreca/lightclock&#34;&gt;Hackster.io&lt;/a&gt;| &lt;a href=&#34;https://hackaday.io/project/2330-LightClock&#34;&gt;Hackaday.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Tyler&#34;&gt;Raspberry-Pi Home Gateway (codename Tyler)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Peggy2GameOfLife&#34;&gt;Naive implementation of Conway&amp;rsquo;s Game Of Life on a Peggy 2 LED Matrix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/b/pierreca/archive/2012/07/11/prototyping-a-connected-object-using-the-net-gadgeteer-the-example-of-a-steampunk-meteo-station.aspx&#34;&gt;.NET Gadgeteer Meteo Station&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/&#34;&gt;Engine Coffee Table&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/&#34;&gt;A list of interesting places for makers around Seattle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Transparent Whiteboard&lt;/li&gt;
+&lt;li&gt;Netduino-Mini Crawler Bot&lt;/li&gt;
+&lt;li&gt;Arduino Crawler Bot&lt;/li&gt;
+&lt;li&gt;Makelangelo 3&lt;/li&gt;
+&lt;li&gt;Lynxmotion Johnny-5&lt;/li&gt;
+&lt;li&gt;OBD-II + GPS Car App&lt;/li&gt;
+&lt;li&gt;Peggy2 Home Display w/ XBee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ideas-dump:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Ideas dump&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3D Flight GPS Log with Excel&lt;/li&gt;
+&lt;li&gt;Arduino Flight Logger&lt;/li&gt;
+&lt;li&gt;Nixie Tube Clock&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;web:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Web&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pierreca.github.io&#34;&gt;This blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.chateaudesarcis.com&#34;&gt;ChateauDesArcis.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs/msdn.com/pierreca&#34;&gt;My old blog (not maintained)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;apps:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Apps&lt;/h2&gt;
+
+&lt;h4 id=&#34;pilot-tools-https-github-com-pierreca-pilottools:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/PilotTools&#34;&gt;Pilot Tools&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Weather and basic flight planning for pilots.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;homecontroller-app-https-github-com-pierreca-homecontrollerapp:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/HomeControllerApp&#34;&gt;HomeController App&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Interfaces with my now defunct home gateway project to control WeMo switches and my Sonos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;deprecated-retired:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Deprecated/Retired&lt;/h2&gt;
+
+&lt;h4 id=&#34;augmented-reality-viewfinder-toolkit-windows-phone-7-5-http-arvftoolkit-codeplex-com:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://arvftoolkit.codeplex.com&#34;&gt;Augmented Reality ViewFinder Toolkit (Windows Phone 7.5)&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Lightweight C# toolkit to build Augmented reality view of geolocalized data with Windows Phone 7.5.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;techdays-2010-conference-official-application:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Techdays 2010 Conference Official Application&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Microsoft Techdays is the largest tech conference in France, organized by Microsoft, where over 16,000 visitors converge each year to get the latest on Microsoft Developer and IT technologies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;klout-kikimeter:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Klout Kikimeter&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Quick exploration with the Klout API&amp;hellip; more intended as a joke than anything (it&amp;rsquo;s klout&amp;hellip;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;pachube-explorer:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pachube Explorer&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Pachube is now Xively. this app allowed to list feeds, graph values, and find feeds around using Augmented Reality (really an excuse to play with the Windows Phone SDK)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;pachube-data-access-layer-http-pachubedal-codeplex-com:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://pachubedal.codeplex.com&#34;&gt;Pachube Data Access Layer&lt;/a&gt;&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This small .Net MicroFramework piece of code offers simplistic APIs to upload data to Pachube (now Xively).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;hackathon-achievements:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Hackathon Achievements&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Social app running on Windows 8 and Windows Phone 8 used during Hackathons to give &amp;ldquo;badges&amp;rdquo; to hackathons participants. When &amp;ldquo;Gamification&amp;rdquo; sounded cool. Also a nice excuse to play with Azure Mobile Services.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;wowwee-rovio-control-app:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Wowwee Rovio Control App&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;the Rovio from Wowwee is a little video mobile robot. this app was built to control it and look at its video feed. My Rovio died, so did the app&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
