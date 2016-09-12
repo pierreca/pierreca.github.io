@@ -18,7 +18,7 @@
       <guid>http://pierreca.github.io/projects/</guid>
       <description>
 
-&lt;h2 id=&#34;hardware:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Hardware&lt;/h2&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/dashboards&#34;&gt;Dashboards and utilities for jenkins and github&lt;/a&gt;&lt;/li&gt;
@@ -39,7 +39,7 @@
 &lt;li&gt;Peggy2 Home Display w/ XBee&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;ideas-dump:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Ideas dump&lt;/h3&gt;
+&lt;h3 id=&#34;ideas-dump&#34;&gt;Ideas dump&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;3D Flight GPS Log with Excel&lt;/li&gt;
@@ -47,7 +47,7 @@
 &lt;li&gt;Nixie Tube Clock&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;web:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Web&lt;/h2&gt;
+&lt;h2 id=&#34;web&#34;&gt;Web&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://pierreca.github.io&#34;&gt;This blog&lt;/a&gt;&lt;/li&gt;
@@ -55,59 +55,59 @@
 &lt;li&gt;&lt;a href=&#34;http://blogs/msdn.com/pierreca&#34;&gt;My old blog (not maintained)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;apps:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Apps&lt;/h2&gt;
+&lt;h2 id=&#34;apps&#34;&gt;Apps&lt;/h2&gt;
 
-&lt;h4 id=&#34;pilot-tools-https-github-com-pierreca-pilottools:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/PilotTools&#34;&gt;Pilot Tools&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;pilot-tools-https-github-com-pierreca-pilottools&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/PilotTools&#34;&gt;Pilot Tools&lt;/a&gt;&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Weather and basic flight planning for pilots.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&#34;homecontroller-app-https-github-com-pierreca-homecontrollerapp:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/HomeControllerApp&#34;&gt;HomeController App&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;homecontroller-app-https-github-com-pierreca-homecontrollerapp&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/HomeControllerApp&#34;&gt;HomeController App&lt;/a&gt;&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Interfaces with my now defunct home gateway project to control WeMo switches and my Sonos.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;deprecated-retired:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Deprecated/Retired&lt;/h2&gt;
+&lt;h2 id=&#34;deprecated-retired&#34;&gt;Deprecated/Retired&lt;/h2&gt;
 
-&lt;h4 id=&#34;augmented-reality-viewfinder-toolkit-windows-phone-7-5-http-arvftoolkit-codeplex-com:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://arvftoolkit.codeplex.com&#34;&gt;Augmented Reality ViewFinder Toolkit (Windows Phone 7.5)&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;augmented-reality-viewfinder-toolkit-windows-phone-7-5-http-arvftoolkit-codeplex-com&#34;&gt;&lt;a href=&#34;http://arvftoolkit.codeplex.com&#34;&gt;Augmented Reality ViewFinder Toolkit (Windows Phone 7.5)&lt;/a&gt;&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Lightweight C# toolkit to build Augmented reality view of geolocalized data with Windows Phone 7.5.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&#34;techdays-2010-conference-official-application:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Techdays 2010 Conference Official Application&lt;/h4&gt;
+&lt;h4 id=&#34;techdays-2010-conference-official-application&#34;&gt;Techdays 2010 Conference Official Application&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The Microsoft Techdays is the largest tech conference in France, organized by Microsoft, where over 16,000 visitors converge each year to get the latest on Microsoft Developer and IT technologies.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&#34;klout-kikimeter:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Klout Kikimeter&lt;/h4&gt;
+&lt;h4 id=&#34;klout-kikimeter&#34;&gt;Klout Kikimeter&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Quick exploration with the Klout API&amp;hellip; more intended as a joke than anything (it&amp;rsquo;s klout&amp;hellip;)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&#34;pachube-explorer:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Pachube Explorer&lt;/h4&gt;
+&lt;h4 id=&#34;pachube-explorer&#34;&gt;Pachube Explorer&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Pachube is now Xively. this app allowed to list feeds, graph values, and find feeds around using Augmented Reality (really an excuse to play with the Windows Phone SDK)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&#34;pachube-data-access-layer-http-pachubedal-codeplex-com:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://pachubedal.codeplex.com&#34;&gt;Pachube Data Access Layer&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;pachube-data-access-layer-http-pachubedal-codeplex-com&#34;&gt;&lt;a href=&#34;http://pachubedal.codeplex.com&#34;&gt;Pachube Data Access Layer&lt;/a&gt;&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;This small .Net MicroFramework piece of code offers simplistic APIs to upload data to Pachube (now Xively).&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&#34;hackathon-achievements:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Hackathon Achievements&lt;/h4&gt;
+&lt;h4 id=&#34;hackathon-achievements&#34;&gt;Hackathon Achievements&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Social app running on Windows 8 and Windows Phone 8 used during Hackathons to give &amp;ldquo;badges&amp;rdquo; to hackathons participants. When &amp;ldquo;Gamification&amp;rdquo; sounded cool. Also a nice excuse to play with Azure Mobile Services.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&#34;wowwee-rovio-control-app:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Wowwee Rovio Control App&lt;/h4&gt;
+&lt;h4 id=&#34;wowwee-rovio-control-app&#34;&gt;Wowwee Rovio Control App&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;the Rovio from Wowwee is a little video mobile robot. this app was built to control it and look at its video feed. My Rovio died, so did the app&amp;hellip;&lt;/p&gt;
