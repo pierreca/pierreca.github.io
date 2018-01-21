@@ -21,8 +21,9 @@
 &lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/ledtac&#34;&gt;LED-lighted TAC chart for real-time weather display&lt;/a&gt; &lt;a href=&#34;https://hackaday.io/project/28354-lighted-tac-chart-with-weather-information&#34;&gt;Hackaday.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/dashboards&#34;&gt;Dashboards and utilities for jenkins and github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/SparkLedMatrix&#34;&gt;LED Matrix board driven by a Spark Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/SparkLedMatrix&#34;&gt;LED Matrix board driven by a Spark Core&lt;/a&gt; &lt;a href=&#34;https://hackaday.io/project/28362-particle-core-led-matrix&#34;&gt;Hackaday.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Galileo&#34;&gt;Simple 3D model of the Intel Galileo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/LightClock&#34;&gt;LightClock v2&lt;/a&gt; &lt;a href=&#34;http://www.hackster.io/pierreca/lightclock&#34;&gt;Hackster.io&lt;/a&gt;| &lt;a href=&#34;https://hackaday.io/project/2330-LightClock&#34;&gt;Hackaday.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Tyler&#34;&gt;Raspberry-Pi Home Gateway (codename Tyler)&lt;/a&gt;&lt;/li&gt;
