@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasts on Making and Flying</title>
+    <link>http://pierreca.github.io/categories/podcasts/</link>
+    <description>Recent content in Podcasts on Making and Flying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2016 Pierre Cauchois</copyright>
+    <atom:link href="http://pierreca.github.io/categories/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>podcasts</title>
+      <link>http://pierreca.github.io/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pierreca.github.io/podcasts/</guid>
+      <description>
+
+&lt;h2 id=&#34;management-leadership&#34;&gt;Management &amp;amp; Leadership&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HBR Ideacast&lt;/li&gt;
+&lt;li&gt;Dear HBR&lt;/li&gt;
+&lt;li&gt;Developer Tea&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;technical-code&#34;&gt;Technical &amp;amp; Code&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Talk Python to Me&lt;/li&gt;
+&lt;li&gt;Python Bytes&lt;/li&gt;
+&lt;li&gt;JS Party&lt;/li&gt;
+&lt;li&gt;Go Time&lt;/li&gt;
+&lt;li&gt;Embedded&lt;/li&gt;
+&lt;li&gt;Test &amp;amp; Code&lt;/li&gt;
+&lt;li&gt;Hanselminutes&lt;/li&gt;
+&lt;li&gt;Coding Blocks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ideas-and-culture&#34;&gt;Ideas and Culture&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hidden Brain (NPR)&lt;/li&gt;
+&lt;li&gt;TED Radio Hour&lt;/li&gt;
+&lt;li&gt;Freakonomics Radio&lt;/li&gt;
+&lt;li&gt;Making it with Jimmy Di Resta, Bob Clagett and David Picciuto&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
