@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reads on Making and Flying</title>
-    <link>http://pierreca.github.io/categories/reads/</link>
-    <description>Recent content in Reads on Making and Flying</description>
+    <title>Reads on Making, Flying and Diving</title>
+    <link>//pierreca.github.io/categories/reads/</link>
+    <description>Recent content in Reads on Making, Flying and Diving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Pierre Cauchois</copyright>
     <lastBuildDate>Thu, 17 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://pierreca.github.io/categories/reads/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//pierreca.github.io/categories/reads/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>reads</title>
-      <link>http://pierreca.github.io/reads/</link>
+      <link>//pierreca.github.io/reads/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/reads/</guid>
+      <guid>//pierreca.github.io/reads/</guid>
       <description>
 
 &lt;h2 id=&#34;started&#34;&gt;Started&lt;/h2&gt;
@@ -23,14 +23,15 @@
 &lt;ul&gt;
 &lt;li&gt;Lean Startup (Eric Ries)&lt;/li&gt;
 &lt;li&gt;Thinking Fast and Slow (Daniel Kahneman)&lt;/li&gt;
-&lt;li&gt;The Four Steps to Epiphany (Steve Blank)&lt;/li&gt;
+&lt;li&gt;The Four Steps to the Epiphany (Steve Blank)&lt;/li&gt;
 &lt;li&gt;The Art of Invisibility (Kevin Mitnick)&lt;/li&gt;
-&lt;li&gt;Talking with Tech Leads: From Novices to Practitioners (Patrick Kua)&lt;/li&gt;
+&lt;li&gt;Managing Humans&lt;/li&gt;
+&lt;li&gt;Good Clean Fun: Misadventures in Sawdust At Offerman Woodshop (Nick Offerman)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;finished&#34;&gt;Finished&lt;/h2&gt;
 
-&lt;h2 id=&#34;work&#34;&gt;Work&lt;/h2&gt;
+&lt;h2 id=&#34;work-tech-and-making&#34;&gt;Work, Tech and Making&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Hooked: How to Build Habit-Forming Products (Nir Eyal)&lt;/li&gt;
@@ -42,7 +43,18 @@
 &lt;li&gt;Maker Pro: Essays on Making a Living as a Maker (John Baichtal &amp;amp; others)&lt;/li&gt;
 &lt;li&gt;Non-Violent Communication (Marshall B. Rosenberg)&lt;/li&gt;
 &lt;li&gt;Tribal Leadership (Dave Logan, John King, Halee Fischer-Wright)&lt;/li&gt;
+&lt;li&gt;Never Split the Difference: Negotiating As If Your Life Depended On It (Chris Voss)&lt;/li&gt;
 &lt;li&gt;The Manager&amp;rsquo;s Path (Camille Fournier)&lt;/li&gt;
+&lt;li&gt;Talking with Tech Leads: From Novices to Practitioners (Patrick Kua)&lt;/li&gt;
+&lt;li&gt;First, Break All the Rules (Gallup Press)&lt;/li&gt;
+&lt;li&gt;Leaders Eat Last (Simon Sinek)&lt;/li&gt;
+&lt;li&gt;Rework (Jason Fried)&lt;/li&gt;
+&lt;li&gt;Switch: How to Change Things When Change Is Hard (Chip &amp;amp; Dan Heath)&lt;/li&gt;
+&lt;li&gt;The Power of When (Michael Breus)&lt;/li&gt;
+&lt;li&gt;The Mythical Man-Month (Fred Brooks)&lt;/li&gt;
+&lt;li&gt;The Effective Executive (Peter Drucker)&lt;/li&gt;
+&lt;li&gt;Every Tool&amp;rsquo;s a Hammer: Life is What You Make It (Adam Savage)&lt;/li&gt;
+&lt;li&gt;Accelerate: The Science of Lean Software and Devops (Nicole Forsgren, PhD with Jez Humble and Gene Kim)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;
@@ -63,11 +75,16 @@
 &lt;li&gt;The Code Book: The Science of Secrecy from Ancient (Simon Singh)&lt;/li&gt;
 &lt;li&gt;In the Beginning was the Command Line (Neal Stephenson)&lt;/li&gt;
 &lt;li&gt;Daniel&amp;rsquo;s Running Formula (Jack Daniels)&lt;/li&gt;
+&lt;li&gt;Hacks (Donna Brazile)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;next&#34;&gt;Next&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Principles: Life and Work (Ray Dalio)&lt;/li&gt;
+&lt;li&gt;High Output Management (Andrew S. Grove)&lt;/li&gt;
+&lt;li&gt;The Making of a Manager: What to Do When Everyone Looks at You (Julie Zhuo)&lt;/li&gt;
+&lt;li&gt;Resilient Management (Lara Hogan)&lt;/li&gt;
 &lt;li&gt;Moonwalking with Einstein (Joshua Foer)&lt;/li&gt;
 &lt;li&gt;Win Forever (Pete Carroll)&lt;/li&gt;
 &lt;li&gt;Hacks (Donna Brazile)&lt;/li&gt;

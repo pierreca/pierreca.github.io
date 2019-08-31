@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Making and Flying</title>
-    <link>http://pierreca.github.io/categories/about/</link>
-    <description>Recent content in About on Making and Flying</description>
+    <title>About on Making, Flying and Diving</title>
+    <link>//pierreca.github.io/categories/about/</link>
+    <description>Recent content in About on Making, Flying and Diving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Pierre Cauchois</copyright>
     <lastBuildDate>Sun, 21 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://pierreca.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//pierreca.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>http://pierreca.github.io/about-me/</link>
+      <link>//pierreca.github.io/about-me/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/about-me/</guid>
-      <description>&lt;p&gt;I build stuff for no other reason than the pleasure of building. I&amp;rsquo;m always trying to learn by doing: if it&amp;rsquo;s not electronics or writing code, it&amp;rsquo;s flying planes.
+      <guid>//pierreca.github.io/about-me/</guid>
+      <description>&lt;p&gt;I build stuff for no other reason than the pleasure of building. I&amp;rsquo;m always trying to learn by doing: if it&amp;rsquo;s not electronics or writing code, it&amp;rsquo;s flying planes or scuba diving.
 I live in Seattle, WA (Go Hawks!) but I&amp;rsquo;m French: please accept my apologies for the bad English and thick accent.&lt;/p&gt;
 
-&lt;p&gt;This is a personal website that has nothing to do with my day job (developer at Microsoft). It&amp;rsquo;s all about sharing my experiences as a maker and a beginner pilot.&lt;/p&gt;
+&lt;p&gt;This is a personal website that has nothing to do with my day job. It&amp;rsquo;s all about sharing my experiences as a maker and a beginner pilot and scuba diver.&lt;/p&gt;
 
 &lt;p&gt;Find me on:&lt;/p&gt;
 
@@ -27,8 +27,6 @@ I live in Seattle, WA (Go Hawks!) but I&amp;rsquo;m French: please accept my apo
 &lt;li&gt;&lt;a href=&#34;http://twitter.com/pierreca&#34;&gt;Twitter: @pierreca&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;www.linkedin.com/in/pierrecauchois/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;My former (and terribly outdated) professional blog can still be found &lt;a href=&#34;http://blogs.msdn.com/pierreca&#34;&gt;here&lt;/a&gt;. (I used to be a developer evangelist back in France).&lt;/p&gt;
 </description>
     </item>
     

@@ -2,61 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://pierreca.github.io/</loc>
+    <loc>//pierreca.github.io/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/diving/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/podcasts/</loc>
     <lastmod>2018-07-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/podcasts/</loc>
-    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pierreca.github.io/reads/</loc>
+    <loc>//pierreca.github.io/reads/</loc>
     <lastmod>2015-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/aviation/</loc>
+    <loc>//pierreca.github.io/aviation/</loc>
     <lastmod>2015-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/about-me/</loc>
+    <loc>//pierreca.github.io/about-me/</loc>
     <lastmod>2015-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/projects/</loc>
+    <loc>//pierreca.github.io/projects/</loc>
     <lastmod>2015-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</loc>
+    <loc>//pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</loc>
     <lastmod>2014-09-02T00:00:03-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</loc>
+    <loc>//pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</loc>
     <lastmod>2014-08-18T00:10:15-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</loc>
+    <loc>//pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</loc>
     <lastmod>2014-08-12T19:57:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</loc>
+    <loc>//pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</loc>
     <lastmod>2014-08-05T22:28:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/aviation/airplane_photography/</loc>
+    <loc>//pierreca.github.io/aviation/airplane_photography/</loc>
   </url>
   
   <url>
-    <loc>http://pierreca.github.io/aviation/maui_county/</loc>
+    <loc>//pierreca.github.io/aviation/maui_county/</loc>
   </url>
   
 </urlset>

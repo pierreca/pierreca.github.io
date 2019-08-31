@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aviations on Making and Flying</title>
-    <link>http://pierreca.github.io/aviation/</link>
-    <description>Recent content in Aviations on Making and Flying</description>
+    <title>Aviations on Making, Flying and Diving</title>
+    <link>//pierreca.github.io/aviation/</link>
+    <description>Recent content in Aviations on Making, Flying and Diving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Pierre Cauchois</copyright>
     <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://pierreca.github.io/aviation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//pierreca.github.io/aviation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>aviation</title>
-      <link>http://pierreca.github.io/aviation/</link>
+      <link>//pierreca.github.io/aviation/</link>
       <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/aviation/</guid>
+      <guid>//pierreca.github.io/aviation/</guid>
       <description>
 
 &lt;h2 id=&#34;training-endorsements&#34;&gt;Training/Endorsements&lt;/h2&gt;
@@ -264,10 +264,10 @@
     
     <item>
       <title></title>
-      <link>http://pierreca.github.io/aviation/airplane_photography/</link>
+      <link>//pierreca.github.io/aviation/airplane_photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/aviation/airplane_photography/</guid>
+      <guid>//pierreca.github.io/aviation/airplane_photography/</guid>
       <description>
 
 &lt;h1 id=&#34;tips-for-taking-pictures-from-airplanes-and-helicopters&#34;&gt;Tips for taking pictures from airplanes and helicopters&lt;/h1&gt;
@@ -289,10 +289,10 @@
     
     <item>
       <title></title>
-      <link>http://pierreca.github.io/aviation/maui_county/</link>
+      <link>//pierreca.github.io/aviation/maui_county/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/aviation/maui_county/</guid>
+      <guid>//pierreca.github.io/aviation/maui_county/</guid>
       <description>
 
 &lt;h1 id=&#34;flying-around-maui-molokai-and-lanai&#34;&gt;Flying around Maui, Molokai and Lanai&lt;/h1&gt;

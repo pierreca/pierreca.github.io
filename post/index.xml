@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Making and Flying</title>
-    <link>http://pierreca.github.io/post/</link>
-    <description>Recent content in Posts on Making and Flying</description>
+    <title>Posts on Making, Flying and Diving</title>
+    <link>//pierreca.github.io/post/</link>
+    <description>Recent content in Posts on Making, Flying and Diving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Pierre Cauchois</copyright>
     <lastBuildDate>Tue, 02 Sep 2014 00:00:03 -0700</lastBuildDate>
-    <atom:link href="http://pierreca.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//pierreca.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Simple 3D Model of the Intel Galileo Board</title>
-      <link>http://pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</link>
+      <link>//pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:03 -0700</pubDate>
       
-      <guid>http://pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</guid>
+      <guid>//pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</guid>
       <description>&lt;div class=&#39;post&#39;&gt;
 &lt;p&gt;I published &lt;a href=&#34;https://github.com/pierreca/Galileo&#34;&gt;a very simplistic 3d model of Intels Galileo (v1) board&lt;/a&gt; on Github 2 days ago. It was built using OpenScad and the code is available as well as the exported STL file.&lt;/p&gt;
 
@@ -30,10 +30,10 @@
     
     <item>
       <title>7 Bad Reasons Not to Finish Projects (With Antidotes)</title>
-      <link>http://pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</link>
+      <link>//pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</link>
       <pubDate>Mon, 18 Aug 2014 00:10:15 -0700</pubDate>
       
-      <guid>http://pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</guid>
+      <guid>//pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</guid>
       <description>&lt;div class=&#39;post&#39;&gt;
 &lt;p&gt;Years of tinkering with electronics and building apps on week-ends and evenings, and recently I have found myself thinking that I never really finish anything. It has been bugging me to a point where I felt really bad about it The weird thing is, its not at all the same at work. Im focused and I always have a clear idea of whats done, whats expected and I know when and how to deliver things on time and meeting my team QA standards.&lt;br&gt;
 I also realized I know of a lot of people feeling the same with their own projects, so lets share: heres whats going on in my maker head, and how I snap out of it and get things done, slowly, but surely. Maybe youll recognize some of the symptoms, hopefully youll find something useful here.&lt;/p&gt;
@@ -117,10 +117,10 @@ I also realized I know of a lot of people feeling the same with their own projec
     
     <item>
       <title>Building a Coffee Table With Engine Blocks</title>
-      <link>http://pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</link>
+      <link>//pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</link>
       <pubDate>Tue, 12 Aug 2014 19:57:36 -0700</pubDate>
       
-      <guid>http://pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</guid>
+      <guid>//pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</guid>
       <description>&lt;div class=&#39;post&#39;&gt;
 &lt;p&gt;Ever since I had seen coffee table on the british TV show called Top Gear (made from a Jaguar V12 engine) I wanted to have an engine-based coffee table. A quick search on the Web showed that anyone can buy that for just over a thousand bucks but I also found a handful of results from people who had done that before and were showing it on some forums: so I set out to build my own.&lt;/p&gt;
 
@@ -191,10 +191,10 @@ Finally if pulleys are still on the block, you may need a special pulley removal
     
     <item>
       <title>Interesting Places for Makers Around Seattle</title>
-      <link>http://pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</link>
+      <link>//pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</link>
       <pubDate>Tue, 05 Aug 2014 22:28:37 -0700</pubDate>
       
-      <guid>http://pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</guid>
+      <guid>//pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</guid>
       <description>&lt;div class=&#39;post&#39;&gt;
 &lt;p&gt;18 months ago, I moved from Paris, France to Seattle, WA. Since then Ive been working on a few personal projects that have taken me around the Seattle area in search for maker resources and shops Heres what I found so far&lt;/p&gt;
 

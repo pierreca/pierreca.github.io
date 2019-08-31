@@ -1,30 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Making and Flying</title>
-    <link>http://pierreca.github.io/</link>
-    <description>Recent content on Making and Flying</description>
+    <title>Making, Flying and Diving</title>
+    <link>//pierreca.github.io/</link>
+    <description>Recent content on Making, Flying and Diving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Pierre Cauchois</copyright>
-    <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://pierreca.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//pierreca.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>diving</title>
+      <link>//pierreca.github.io/diving/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/diving/</guid>
+      <description>
+
+&lt;h2 id=&#34;dive-trips&#34;&gt;Dive Trips&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maui&lt;/li&gt;
+&lt;li&gt;Big Island&lt;/li&gt;
+&lt;li&gt;Cozumel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;pnw-dive-shops&#34;&gt;PNW Dive Shops&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Underwater Sports&lt;/li&gt;
+&lt;li&gt;8 Diving&lt;/li&gt;
+&lt;li&gt;Silent World Diving Systems&lt;/li&gt;
+&lt;li&gt;Tacoma Scuba&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;pnw-dive-sites&#34;&gt;PNW Dive Sites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Redondo Beach&lt;/li&gt;
+&lt;li&gt;Les Davis&lt;/li&gt;
+&lt;li&gt;Three-tree&lt;/li&gt;
+&lt;li&gt;Alki Cove 2&lt;/li&gt;
+&lt;li&gt;Point Defiance North Wall (w/ Bandito Charters)&lt;/li&gt;
+&lt;li&gt;Zee&amp;rsquo;s Reef (w/ Bandito Charters)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;certifications&#34;&gt;Certifications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Open Water Diver (SSI)&lt;/li&gt;
+&lt;li&gt;Advanced Open Water Diver (PADI)&lt;/li&gt;
+&lt;li&gt;Rescue Diver (PADI)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>podcasts</title>
-      <link>http://pierreca.github.io/podcasts/</link>
+      <link>//pierreca.github.io/podcasts/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/podcasts/</guid>
+      <guid>//pierreca.github.io/podcasts/</guid>
       <description>
-
-&lt;h2 id=&#34;management-leadership&#34;&gt;Management &amp;amp; Leadership&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;HBR Ideacast&lt;/li&gt;
-&lt;li&gt;Dear HBR&lt;/li&gt;
-&lt;li&gt;Developer Tea&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;h2 id=&#34;technical-code&#34;&gt;Technical &amp;amp; Code&lt;/h2&gt;
 
@@ -33,10 +71,34 @@
 &lt;li&gt;Python Bytes&lt;/li&gt;
 &lt;li&gt;JS Party&lt;/li&gt;
 &lt;li&gt;Go Time&lt;/li&gt;
-&lt;li&gt;Embedded&lt;/li&gt;
 &lt;li&gt;Test &amp;amp; Code&lt;/li&gt;
 &lt;li&gt;Hanselminutes&lt;/li&gt;
 &lt;li&gt;Coding Blocks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Amp Hour&lt;/li&gt;
+&lt;li&gt;The Macrofab Engineering Podcast&lt;/li&gt;
+&lt;li&gt;Embedded.fm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;infosec&#34;&gt;Infosec&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Unnamed Reverse Engineering Podcast&lt;/li&gt;
+&lt;li&gt;Darknet Diaries&lt;/li&gt;
+&lt;li&gt;Malicious Life&lt;/li&gt;
+&lt;li&gt;Hackable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;management-leadership&#34;&gt;Management &amp;amp; Leadership&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HBR Ideacast&lt;/li&gt;
+&lt;li&gt;Dear HBR&lt;/li&gt;
+&lt;li&gt;Developer Tea&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;ideas-and-culture&#34;&gt;Ideas and Culture&lt;/h2&gt;
@@ -52,10 +114,10 @@
     
     <item>
       <title>reads</title>
-      <link>http://pierreca.github.io/reads/</link>
+      <link>//pierreca.github.io/reads/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/reads/</guid>
+      <guid>//pierreca.github.io/reads/</guid>
       <description>
 
 &lt;h2 id=&#34;started&#34;&gt;Started&lt;/h2&gt;
@@ -63,14 +125,15 @@
 &lt;ul&gt;
 &lt;li&gt;Lean Startup (Eric Ries)&lt;/li&gt;
 &lt;li&gt;Thinking Fast and Slow (Daniel Kahneman)&lt;/li&gt;
-&lt;li&gt;The Four Steps to Epiphany (Steve Blank)&lt;/li&gt;
+&lt;li&gt;The Four Steps to the Epiphany (Steve Blank)&lt;/li&gt;
 &lt;li&gt;The Art of Invisibility (Kevin Mitnick)&lt;/li&gt;
-&lt;li&gt;Talking with Tech Leads: From Novices to Practitioners (Patrick Kua)&lt;/li&gt;
+&lt;li&gt;Managing Humans&lt;/li&gt;
+&lt;li&gt;Good Clean Fun: Misadventures in Sawdust At Offerman Woodshop (Nick Offerman)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;finished&#34;&gt;Finished&lt;/h2&gt;
 
-&lt;h2 id=&#34;work&#34;&gt;Work&lt;/h2&gt;
+&lt;h2 id=&#34;work-tech-and-making&#34;&gt;Work, Tech and Making&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Hooked: How to Build Habit-Forming Products (Nir Eyal)&lt;/li&gt;
@@ -82,7 +145,18 @@
 &lt;li&gt;Maker Pro: Essays on Making a Living as a Maker (John Baichtal &amp;amp; others)&lt;/li&gt;
 &lt;li&gt;Non-Violent Communication (Marshall B. Rosenberg)&lt;/li&gt;
 &lt;li&gt;Tribal Leadership (Dave Logan, John King, Halee Fischer-Wright)&lt;/li&gt;
+&lt;li&gt;Never Split the Difference: Negotiating As If Your Life Depended On It (Chris Voss)&lt;/li&gt;
 &lt;li&gt;The Manager&amp;rsquo;s Path (Camille Fournier)&lt;/li&gt;
+&lt;li&gt;Talking with Tech Leads: From Novices to Practitioners (Patrick Kua)&lt;/li&gt;
+&lt;li&gt;First, Break All the Rules (Gallup Press)&lt;/li&gt;
+&lt;li&gt;Leaders Eat Last (Simon Sinek)&lt;/li&gt;
+&lt;li&gt;Rework (Jason Fried)&lt;/li&gt;
+&lt;li&gt;Switch: How to Change Things When Change Is Hard (Chip &amp;amp; Dan Heath)&lt;/li&gt;
+&lt;li&gt;The Power of When (Michael Breus)&lt;/li&gt;
+&lt;li&gt;The Mythical Man-Month (Fred Brooks)&lt;/li&gt;
+&lt;li&gt;The Effective Executive (Peter Drucker)&lt;/li&gt;
+&lt;li&gt;Every Tool&amp;rsquo;s a Hammer: Life is What You Make It (Adam Savage)&lt;/li&gt;
+&lt;li&gt;Accelerate: The Science of Lean Software and Devops (Nicole Forsgren, PhD with Jez Humble and Gene Kim)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;
@@ -103,11 +177,16 @@
 &lt;li&gt;The Code Book: The Science of Secrecy from Ancient (Simon Singh)&lt;/li&gt;
 &lt;li&gt;In the Beginning was the Command Line (Neal Stephenson)&lt;/li&gt;
 &lt;li&gt;Daniel&amp;rsquo;s Running Formula (Jack Daniels)&lt;/li&gt;
+&lt;li&gt;Hacks (Donna Brazile)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;next&#34;&gt;Next&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Principles: Life and Work (Ray Dalio)&lt;/li&gt;
+&lt;li&gt;High Output Management (Andrew S. Grove)&lt;/li&gt;
+&lt;li&gt;The Making of a Manager: What to Do When Everyone Looks at You (Julie Zhuo)&lt;/li&gt;
+&lt;li&gt;Resilient Management (Lara Hogan)&lt;/li&gt;
 &lt;li&gt;Moonwalking with Einstein (Joshua Foer)&lt;/li&gt;
 &lt;li&gt;Win Forever (Pete Carroll)&lt;/li&gt;
 &lt;li&gt;Hacks (Donna Brazile)&lt;/li&gt;
@@ -122,10 +201,10 @@
     
     <item>
       <title>aviation</title>
-      <link>http://pierreca.github.io/aviation/</link>
+      <link>//pierreca.github.io/aviation/</link>
       <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/aviation/</guid>
+      <guid>//pierreca.github.io/aviation/</guid>
       <description>
 
 &lt;h2 id=&#34;training-endorsements&#34;&gt;Training/Endorsements&lt;/h2&gt;
@@ -374,14 +453,14 @@
     
     <item>
       <title>About me</title>
-      <link>http://pierreca.github.io/about-me/</link>
+      <link>//pierreca.github.io/about-me/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/about-me/</guid>
-      <description>&lt;p&gt;I build stuff for no other reason than the pleasure of building. I&amp;rsquo;m always trying to learn by doing: if it&amp;rsquo;s not electronics or writing code, it&amp;rsquo;s flying planes.
+      <guid>//pierreca.github.io/about-me/</guid>
+      <description>&lt;p&gt;I build stuff for no other reason than the pleasure of building. I&amp;rsquo;m always trying to learn by doing: if it&amp;rsquo;s not electronics or writing code, it&amp;rsquo;s flying planes or scuba diving.
 I live in Seattle, WA (Go Hawks!) but I&amp;rsquo;m French: please accept my apologies for the bad English and thick accent.&lt;/p&gt;
 
-&lt;p&gt;This is a personal website that has nothing to do with my day job (developer at Microsoft). It&amp;rsquo;s all about sharing my experiences as a maker and a beginner pilot.&lt;/p&gt;
+&lt;p&gt;This is a personal website that has nothing to do with my day job. It&amp;rsquo;s all about sharing my experiences as a maker and a beginner pilot and scuba diver.&lt;/p&gt;
 
 &lt;p&gt;Find me on:&lt;/p&gt;
 
@@ -389,17 +468,15 @@ I live in Seattle, WA (Go Hawks!) but I&amp;rsquo;m French: please accept my apo
 &lt;li&gt;&lt;a href=&#34;http://twitter.com/pierreca&#34;&gt;Twitter: @pierreca&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;www.linkedin.com/in/pierrecauchois/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;My former (and terribly outdated) professional blog can still be found &lt;a href=&#34;http://blogs.msdn.com/pierreca&#34;&gt;here&lt;/a&gt;. (I used to be a developer evangelist back in France).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>http://pierreca.github.io/projects/</link>
+      <link>//pierreca.github.io/projects/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/projects/</guid>
+      <guid>//pierreca.github.io/projects/</guid>
       <description>
 
 &lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
@@ -415,13 +492,27 @@ I live in Seattle, WA (Go Hawks!) but I&amp;rsquo;m French: please accept my apo
 &lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/b/pierreca/archive/2012/07/11/prototyping-a-connected-object-using-the-net-gadgeteer-the-example-of-a-steampunk-meteo-station.aspx&#34;&gt;.NET Gadgeteer Meteo Station&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/&#34;&gt;Engine Coffee Table&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/&#34;&gt;A list of interesting places for makers around Seattle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/nixie-clock&#34;&gt;Nixie Tube Clock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/logorrhea&#34;&gt;Logorrhea: A VS Code Extension to highlight logs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Azure IoT Hub and Azure IoT Hub Provisioning Service logos blinking pins&lt;/li&gt;
+&lt;li&gt;4017 circuit LED &amp;ldquo;chaser&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;595 shift register + 74LS47 7-segment display driver&lt;/li&gt;
 &lt;li&gt;Transparent Whiteboard&lt;/li&gt;
 &lt;li&gt;Netduino-Mini Crawler Bot&lt;/li&gt;
 &lt;li&gt;Arduino Crawler Bot&lt;/li&gt;
 &lt;li&gt;Makelangelo 3&lt;/li&gt;
 &lt;li&gt;Lynxmotion Johnny-5&lt;/li&gt;
 &lt;li&gt;OBD-II + GPS Car App&lt;/li&gt;
-&lt;li&gt;Peggy2 Home Display w/ XBee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;woodworking&#34;&gt;Woodworking&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nixie Tube Clock&lt;/li&gt;
+&lt;li&gt;Pocket Knife (Kit)&lt;/li&gt;
+&lt;li&gt;Hunting Knife (Kit, Woodcraft class, Knife Making with Robb Gray)&lt;/li&gt;
+&lt;li&gt;Slim-line Pen (Kit, Woodcraft class, Pen Turning 101 with John Jones)&lt;/li&gt;
+&lt;li&gt;Toolbox (Woodcraft class: Sawdust Therapy I w/ Steve Dando)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;ideas-dump&#34;&gt;Ideas dump&lt;/h3&gt;
@@ -429,7 +520,6 @@ I live in Seattle, WA (Go Hawks!) but I&amp;rsquo;m French: please accept my apo
 &lt;ul&gt;
 &lt;li&gt;3D Flight GPS Log with Excel&lt;/li&gt;
 &lt;li&gt;Arduino Flight Logger&lt;/li&gt;
-&lt;li&gt;Nixie Tube Clock&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;web&#34;&gt;Web&lt;/h2&gt;
@@ -502,10 +592,10 @@ I live in Seattle, WA (Go Hawks!) but I&amp;rsquo;m French: please accept my apo
     
     <item>
       <title>A Simple 3D Model of the Intel Galileo Board</title>
-      <link>http://pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</link>
+      <link>//pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:03 -0700</pubDate>
       
-      <guid>http://pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</guid>
+      <guid>//pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</guid>
       <description>&lt;div class=&#39;post&#39;&gt;
 &lt;p&gt;I published &lt;a href=&#34;https://github.com/pierreca/Galileo&#34;&gt;a very simplistic 3d model of Intels Galileo (v1) board&lt;/a&gt; on Github 2 days ago. It was built using OpenScad and the code is available as well as the exported STL file.&lt;/p&gt;
 
@@ -520,10 +610,10 @@ I live in Seattle, WA (Go Hawks!) but I&amp;rsquo;m French: please accept my apo
     
     <item>
       <title>7 Bad Reasons Not to Finish Projects (With Antidotes)</title>
-      <link>http://pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</link>
+      <link>//pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</link>
       <pubDate>Mon, 18 Aug 2014 00:10:15 -0700</pubDate>
       
-      <guid>http://pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</guid>
+      <guid>//pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</guid>
       <description>&lt;div class=&#39;post&#39;&gt;
 &lt;p&gt;Years of tinkering with electronics and building apps on week-ends and evenings, and recently I have found myself thinking that I never really finish anything. It has been bugging me to a point where I felt really bad about it The weird thing is, its not at all the same at work. Im focused and I always have a clear idea of whats done, whats expected and I know when and how to deliver things on time and meeting my team QA standards.&lt;br&gt;
 I also realized I know of a lot of people feeling the same with their own projects, so lets share: heres whats going on in my maker head, and how I snap out of it and get things done, slowly, but surely. Maybe youll recognize some of the symptoms, hopefully youll find something useful here.&lt;/p&gt;
@@ -607,10 +697,10 @@ I also realized I know of a lot of people feeling the same with their own projec
     
     <item>
       <title>Building a Coffee Table With Engine Blocks</title>
-      <link>http://pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</link>
+      <link>//pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</link>
       <pubDate>Tue, 12 Aug 2014 19:57:36 -0700</pubDate>
       
-      <guid>http://pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</guid>
+      <guid>//pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</guid>
       <description>&lt;div class=&#39;post&#39;&gt;
 &lt;p&gt;Ever since I had seen coffee table on the british TV show called Top Gear (made from a Jaguar V12 engine) I wanted to have an engine-based coffee table. A quick search on the Web showed that anyone can buy that for just over a thousand bucks but I also found a handful of results from people who had done that before and were showing it on some forums: so I set out to build my own.&lt;/p&gt;
 
@@ -681,10 +771,10 @@ Finally if pulleys are still on the block, you may need a special pulley removal
     
     <item>
       <title>Interesting Places for Makers Around Seattle</title>
-      <link>http://pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</link>
+      <link>//pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</link>
       <pubDate>Tue, 05 Aug 2014 22:28:37 -0700</pubDate>
       
-      <guid>http://pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</guid>
+      <guid>//pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</guid>
       <description>&lt;div class=&#39;post&#39;&gt;
 &lt;p&gt;18 months ago, I moved from Paris, France to Seattle, WA. Since then Ive been working on a few personal projects that have taken me around the Seattle area in search for maker resources and shops Heres what I found so far&lt;/p&gt;
 
@@ -816,10 +906,10 @@ There&amp;#x2019;s also Perkins on Broadway in Capitol Hill, Seattle, but I have
     
     <item>
       <title></title>
-      <link>http://pierreca.github.io/aviation/airplane_photography/</link>
+      <link>//pierreca.github.io/aviation/airplane_photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/aviation/airplane_photography/</guid>
+      <guid>//pierreca.github.io/aviation/airplane_photography/</guid>
       <description>
 
 &lt;h1 id=&#34;tips-for-taking-pictures-from-airplanes-and-helicopters&#34;&gt;Tips for taking pictures from airplanes and helicopters&lt;/h1&gt;
@@ -841,10 +931,10 @@ There&amp;#x2019;s also Perkins on Broadway in Capitol Hill, Seattle, but I have
     
     <item>
       <title></title>
-      <link>http://pierreca.github.io/aviation/maui_county/</link>
+      <link>//pierreca.github.io/aviation/maui_county/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/aviation/maui_county/</guid>
+      <guid>//pierreca.github.io/aviation/maui_county/</guid>
       <description>
 
 &lt;h1 id=&#34;flying-around-maui-molokai-and-lanai&#34;&gt;Flying around Maui, Molokai and Lanai&lt;/h1&gt;

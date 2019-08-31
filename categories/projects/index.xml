@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Making and Flying</title>
-    <link>http://pierreca.github.io/categories/projects/</link>
-    <description>Recent content in Projects on Making and Flying</description>
+    <title>Projects on Making, Flying and Diving</title>
+    <link>//pierreca.github.io/categories/projects/</link>
+    <description>Recent content in Projects on Making, Flying and Diving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Pierre Cauchois</copyright>
     <lastBuildDate>Sun, 21 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://pierreca.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//pierreca.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>projects</title>
-      <link>http://pierreca.github.io/projects/</link>
+      <link>//pierreca.github.io/projects/</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://pierreca.github.io/projects/</guid>
+      <guid>//pierreca.github.io/projects/</guid>
       <description>
 
 &lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
@@ -31,13 +31,27 @@
 &lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/b/pierreca/archive/2012/07/11/prototyping-a-connected-object-using-the-net-gadgeteer-the-example-of-a-steampunk-meteo-station.aspx&#34;&gt;.NET Gadgeteer Meteo Station&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/&#34;&gt;Engine Coffee Table&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/&#34;&gt;A list of interesting places for makers around Seattle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/nixie-clock&#34;&gt;Nixie Tube Clock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/logorrhea&#34;&gt;Logorrhea: A VS Code Extension to highlight logs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Azure IoT Hub and Azure IoT Hub Provisioning Service logos blinking pins&lt;/li&gt;
+&lt;li&gt;4017 circuit LED &amp;ldquo;chaser&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;595 shift register + 74LS47 7-segment display driver&lt;/li&gt;
 &lt;li&gt;Transparent Whiteboard&lt;/li&gt;
 &lt;li&gt;Netduino-Mini Crawler Bot&lt;/li&gt;
 &lt;li&gt;Arduino Crawler Bot&lt;/li&gt;
 &lt;li&gt;Makelangelo 3&lt;/li&gt;
 &lt;li&gt;Lynxmotion Johnny-5&lt;/li&gt;
 &lt;li&gt;OBD-II + GPS Car App&lt;/li&gt;
-&lt;li&gt;Peggy2 Home Display w/ XBee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;woodworking&#34;&gt;Woodworking&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nixie Tube Clock&lt;/li&gt;
+&lt;li&gt;Pocket Knife (Kit)&lt;/li&gt;
+&lt;li&gt;Hunting Knife (Kit, Woodcraft class, Knife Making with Robb Gray)&lt;/li&gt;
+&lt;li&gt;Slim-line Pen (Kit, Woodcraft class, Pen Turning 101 with John Jones)&lt;/li&gt;
+&lt;li&gt;Toolbox (Woodcraft class: Sawdust Therapy I w/ Steve Dando)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;ideas-dump&#34;&gt;Ideas dump&lt;/h3&gt;
@@ -45,7 +59,6 @@
 &lt;ul&gt;
 &lt;li&gt;3D Flight GPS Log with Excel&lt;/li&gt;
 &lt;li&gt;Arduino Flight Logger&lt;/li&gt;
-&lt;li&gt;Nixie Tube Clock&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;web&#34;&gt;Web&lt;/h2&gt;
