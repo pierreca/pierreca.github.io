@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>//pierreca.github.io/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/diving/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/podcasts/</loc>
-    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/reads/</loc>
-    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
-  </url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>//pierreca.github.io/aviation/</loc>
@@ -27,41 +8,83 @@
   </url>
   
   <url>
-    <loc>//pierreca.github.io/about-me/</loc>
-    <lastmod>2015-06-21T00:00:00+00:00</lastmod>
+    <loc>//pierreca.github.io/categories/aviation/</loc>
+    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//pierreca.github.io/projects/</loc>
-    <lastmod>2015-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/post/2014-09-02-a-simple-3d-model-of-the-intel-galileo-board/</loc>
-    <lastmod>2014-09-02T00:00:03-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/post/2014-08-18-7-bad-reasons-not-to-finish-projects-with-antidotes/</loc>
-    <lastmod>2014-08-18T00:10:15-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/post/2014-08-12-building-a-coffee-table-with-engine-blocks/</loc>
-    <lastmod>2014-08-12T19:57:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/post/2014-08-05-maker-friendly-places-around-seattle/</loc>
-    <lastmod>2014-08-05T22:28:37-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/aviation/airplane_photography/</loc>
+    <loc>//pierreca.github.io/categories/</loc>
+    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>//pierreca.github.io/aviation/maui_county/</loc>
+    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/</loc>
+    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/aviation/airplane_photography/</loc>
+    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/projects/galileo_3d_model/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/projects/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/categories/projects/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/projects/bad_reasons_finish_projects/</loc>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/projects/engine_coffee_table/</loc>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/diving/</loc>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/categories/diving/</loc>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/projects/maker_places_seattle/</loc>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/podcasts/</loc>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/categories/podcasts/</loc>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/categories/reading/</loc>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/reads/</loc>
+  </url>
+  
+  <url>
+    <loc>//pierreca.github.io/tags/</loc>
   </url>
   
 </urlset>

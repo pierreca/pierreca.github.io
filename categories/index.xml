@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Making, Flying and Diving</title>
+    <link>//pierreca.github.io/categories/</link>
+    <description>Recent content in Categories on Making, Flying and Diving</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2016 Pierre Cauchois</copyright>
+    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//pierreca.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>aviation</title>
+      <link>//pierreca.github.io/categories/aviation/</link>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/categories/aviation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>//pierreca.github.io/categories/projects/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diving</title>
+      <link>//pierreca.github.io/categories/diving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/categories/diving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcasts</title>
+      <link>//pierreca.github.io/categories/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/categories/podcasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>//pierreca.github.io/categories/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/categories/reading/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,265 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aviation on Making, Flying and Diving</title>
+    <title>aviation on Making, Flying and Diving</title>
     <link>//pierreca.github.io/categories/aviation/</link>
-    <description>Recent content in Aviation on Making, Flying and Diving</description>
+    <description>Recent content in aviation on Making, Flying and Diving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Pierre Cauchois</copyright>
     <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//pierreca.github.io/categories/aviation/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="//pierreca.github.io/categories/aviation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>aviation</title>
+      <title>Aviation</title>
       <link>//pierreca.github.io/aviation/</link>
       <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>//pierreca.github.io/aviation/</guid>
-      <description>
-
-&lt;h2 id=&#34;training-endorsements&#34;&gt;Training/Endorsements&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Private Pilot License (Rainier Flight Service)&lt;/li&gt;
-&lt;li&gt;Mountain Flying Course (Rainier Flight Service)&lt;/li&gt;
-&lt;li&gt;High-Performance Endorsement (Rainier Flight Service)&lt;/li&gt;
-&lt;li&gt;Complex Endorsement (Spanaflight)&lt;/li&gt;
-&lt;li&gt;Tailwheel Endorsement (Aerodynamic Aviation)&lt;/li&gt;
-&lt;li&gt;Spin Training (Aerodynamic Aviation)&lt;/li&gt;
-&lt;li&gt;Seaplane Rating (Alaska Floats &amp;amp; Skis)&lt;/li&gt;
-&lt;li&gt;Bush Flying Course (Alaska Floats &amp;amp; Skis)&lt;/li&gt;
-&lt;li&gt;Glider intro flights (Puget Sound Soaring Association)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;adventures&#34;&gt;Adventures&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Alaska Bush &amp;amp; Seaplane training&lt;/li&gt;
-&lt;li&gt;Idaho&amp;rsquo;s nicest camping strips&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./maui_county&#34;&gt;Fly around Maui County (Hawaii)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./airplane_photography&#34;&gt;Tips for taking pictures from an aircraft&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;todo&#34;&gt;TODO&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;IFR Rating&lt;/li&gt;
-&lt;li&gt;Commercial Rating&lt;/li&gt;
-&lt;li&gt;Upset and unusual attitude recovery&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;aircrafts&#34;&gt;Aircrafts&lt;/h2&gt;
-
-&lt;h3 id=&#34;owned&#34;&gt;Owned&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Maule M5-180C (Sold)&lt;/li&gt;
-&lt;li&gt;Cessna 172D (1964)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;checked-out&#34;&gt;Checked Out&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cessna 162&lt;/li&gt;
-&lt;li&gt;Cessna 172 (N,S)&lt;/li&gt;
-&lt;li&gt;Cessna 182 (S,T)&lt;/li&gt;
-&lt;li&gt;Citabria 7KCAB&lt;/li&gt;
-&lt;li&gt;Piper Arrow II&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;flown-with-cfi&#34;&gt;Flown with CFI&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Citabria 7GCBC&lt;/li&gt;
-&lt;li&gt;Husky AA-1B&lt;/li&gt;
-&lt;li&gt;American Champion Scout (Floatplane)&lt;/li&gt;
-&lt;li&gt;Cirrus SR20&lt;/li&gt;
-&lt;li&gt;Piper PA-11S Cub Special&lt;/li&gt;
-&lt;li&gt;Piper PA-22/20S Pacer (Floatplane)&lt;/li&gt;
-&lt;li&gt;Piper PA-&lt;sup&gt;22&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; Pacer&lt;/li&gt;
-&lt;li&gt;LET L-13AC Blanik (glider)&lt;/li&gt;
-&lt;li&gt;Politechnika Warszawska PW-6U (glider)&lt;/li&gt;
-&lt;li&gt;Cessna 185 (Floatplane)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;right-seat-passenger&#34;&gt;Right Seat (passenger)&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cirrus SR22T&lt;/li&gt;
-&lt;li&gt;Bonanza V35&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;airports&#34;&gt;Airports&lt;/h2&gt;
-
-&lt;h3 id=&#34;pacific-northwest&#34;&gt;Pacific Northwest&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Renton (KRNT)&lt;/li&gt;
-&lt;li&gt;Pierce County (KPLU)&lt;/li&gt;
-&lt;li&gt;Boeing Field (KBFI)&lt;/li&gt;
-&lt;li&gt;Paine Field (KPAE)&lt;/li&gt;
-&lt;li&gt;Crest (S36)&lt;/li&gt;
-&lt;li&gt;Auburn (S50)&lt;/li&gt;
-&lt;li&gt;Tacoma-Narrows (KTIW)&lt;/li&gt;
-&lt;li&gt;Port Angeles (KCLM)&lt;/li&gt;
-&lt;li&gt;Chehalis-Centralia (KCLS)&lt;/li&gt;
-&lt;li&gt;Kelso Longview (KKLS)&lt;/li&gt;
-&lt;li&gt;Sanderson (KSHN)&lt;/li&gt;
-&lt;li&gt;Bremerton (KPWT)&lt;/li&gt;
-&lt;li&gt;Skagit-Burlington (KBVS)&lt;/li&gt;
-&lt;li&gt;Bellingham (KBLI)&lt;/li&gt;
-&lt;li&gt;Friday Harbor (KFHR)&lt;/li&gt;
-&lt;li&gt;Hoquiam (KHQM)&lt;/li&gt;
-&lt;li&gt;Ocean Shores (W04)&lt;/li&gt;
-&lt;li&gt;Easton (KESW) [grass]&lt;/li&gt;
-&lt;li&gt;Ellensburg (KELN)&lt;/li&gt;
-&lt;li&gt;Ranger Creek (21W)&lt;/li&gt;
-&lt;li&gt;Packwood (55S)&lt;/li&gt;
-&lt;li&gt;Auburn Academy (WA84) [grass]&lt;/li&gt;
-&lt;li&gt;Astoria (KAST)&lt;/li&gt;
-&lt;li&gt;Harvey Field (S43)&lt;/li&gt;
-&lt;li&gt;Desert Aire (M94)&lt;/li&gt;
-&lt;li&gt;Toledo (KTDO)&lt;/li&gt;
-&lt;li&gt;Strom Field (39P)&lt;/li&gt;
-&lt;li&gt;Swanson (2W3)&lt;/li&gt;
-&lt;li&gt;Sequim Valley (W28)&lt;/li&gt;
-&lt;li&gt;Jefferson County (0S9)&lt;/li&gt;
-&lt;li&gt;Sky Harbor (S86) [grass]&lt;/li&gt;
-&lt;li&gt;Monroe (W16)&lt;/li&gt;
-&lt;li&gt;Vashon (2S1) [grass]&lt;/li&gt;
-&lt;li&gt;Tieton State (4S6) [grass]&lt;/li&gt;
-&lt;li&gt;Bandera (4W0) [grass]&lt;/li&gt;
-&lt;li&gt;Bergseth Field (WN76) [grass] [glider]&lt;/li&gt;
-&lt;li&gt;Goheen (W52) [grass]&lt;/li&gt;
-&lt;li&gt;Skykomish (S88) [grass]&lt;/li&gt;
-&lt;li&gt;Lake Wenatchee State (27W) [grass]&lt;/li&gt;
-&lt;li&gt;Grand Coulee Dam (3W7)&lt;/li&gt;
-&lt;li&gt;Deer Park (KDEW)&lt;/li&gt;
-&lt;li&gt;Sullivan Lake State (09S)&lt;/li&gt;
-&lt;li&gt;Olympia Rgnl (KOLM)&lt;/li&gt;
-&lt;li&gt;Roche Harbor (WA09)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;idaho&#34;&gt;Idaho&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Priest Lake USFS (67S)&lt;/li&gt;
-&lt;li&gt;Cavanaugh Bay (66S)&lt;/li&gt;
-&lt;li&gt;Sandpoint (KSZT)&lt;/li&gt;
-&lt;li&gt;Johnson Creek (3U2)&lt;/li&gt;
-&lt;li&gt;Smiley Creek (U87)&lt;/li&gt;
-&lt;li&gt;Lewiston (KLWS)&lt;/li&gt;
-&lt;li&gt;Cascade (U70)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;oregon&#34;&gt;Oregon&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Troutdale (KTTD)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;california&#34;&gt;California&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Reid-Hillview (KRHV)&lt;/li&gt;
-&lt;li&gt;Frazier Lake (1C9) [grass]&lt;/li&gt;
-&lt;li&gt;Salinas (KSNS)&lt;/li&gt;
-&lt;li&gt;Hollister (KCVH)&lt;/li&gt;
-&lt;li&gt;Columbia (O22)&lt;/li&gt;
-&lt;li&gt;Pine Mountain Lake (E45)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;alaska&#34;&gt;Alaska&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Talkeetna (PATK) [gravel]&lt;/li&gt;
-&lt;li&gt;Herc Strip [gravel]&lt;/li&gt;
-&lt;li&gt;Cash Creek Strip [gravel]&lt;/li&gt;
-&lt;li&gt;Talkeetna River Gravel Bar&lt;/li&gt;
-&lt;li&gt;Swan Lake&lt;/li&gt;
-&lt;li&gt;Chelatna Lake&lt;/li&gt;
-&lt;li&gt;Larson Lake&lt;/li&gt;
-&lt;li&gt;Christiansen Lake (AK8)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;louisiana&#34;&gt;Louisiana&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Southern Seaplanes (65LA)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;hawaii&#34;&gt;Hawaii&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kahului (PHOG/OGG)&lt;/li&gt;
-&lt;li&gt;Kalaupapa (PHLU/LUP)&lt;/li&gt;
-&lt;li&gt;Hana (PHHN/HNM)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;iceland&#34;&gt;Iceland&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Reykjavik (BIRK)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;todo-1&#34;&gt;TODO&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Langley (W10)&lt;/li&gt;
-&lt;li&gt;Cle Elum (S93)&lt;/li&gt;
-&lt;li&gt;Cedars North (W58)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;navigation-radio&#34;&gt;Navigation/Radio&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Across the Cascades (Snoqualmie Pass, Stevens Pass, White Pass)&lt;/li&gt;
-&lt;li&gt;RNT-BFI Stadiums Transition&lt;/li&gt;
-&lt;li&gt;Fly around Mt Rainier&lt;/li&gt;
-&lt;li&gt;SeaTac (Burien) Transition&lt;/li&gt;
-&lt;li&gt;Alaska Time (Lakes, Glaciers, Mountain Flying)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;todo-2&#34;&gt;TODO&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fly to Canada (and back)&lt;/li&gt;
-&lt;li&gt;Public Fly-In (AOPA or other)&lt;/li&gt;
-&lt;li&gt;Oshkosh&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ForeFlight&lt;/li&gt;
-&lt;li&gt;Stratus II&lt;/li&gt;
-&lt;li&gt;Bad Elf GPS Pro&lt;/li&gt;
-&lt;li&gt;Jeppesen PPL Ground School&lt;/li&gt;
-&lt;li&gt;Jeppesen G1000 Bundle (VFR)&lt;/li&gt;
-&lt;li&gt;MyFlightBook.com&lt;/li&gt;
-&lt;li&gt;Sporty&amp;rsquo;s Aspen Bundle&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Killing Zone, 2nd Edition: How and Why Pilots Die (Paul Craig)&lt;/li&gt;
-&lt;li&gt;There I Wuz! Adventures from 3 decades in the Sky (Eric Auxier)&lt;/li&gt;
-&lt;li&gt;The Last Bush Pilots (Eric Auxier)&lt;/li&gt;
-&lt;li&gt;Bush Pilot Way (Bill Quirk)&lt;/li&gt;
-&lt;li&gt;Vol de Nuit (Antoine de St Exupery)&lt;/li&gt;
-&lt;li&gt;The Compleat Taildragger Pilot (Harvey S. Plourde)&lt;/li&gt;
-&lt;li&gt;The Right Stuff (Tom Wolfe)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;todo-3&#34;&gt;TODO&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Beyond the Checkride (Howard Fried)&lt;/li&gt;
-&lt;li&gt;Stick and Rudder (Wolfgang Langewiesche)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Aviation-related stuff that I do: where I fly, what I fly, etc.
+Training/Endorsements  IFR Rating (Rainier Flight Service) Private Pilot License (Rainier Flight Service) Mountain Flying Course (Rainier Flight Service) High-Performance Endorsement (Rainier Flight Service) Complex Endorsement (Spanaflight) Tailwheel Endorsement (Aerodynamic Aviation, Cub Flying) Spin Training (Aerodynamic Aviation) Seaplane Rating (Alaska Floats &amp;amp; Skis) Bush Flying Course (Alaska Floats &amp;amp; Skis) Glider intro flights (Puget Sound Soaring Association)  Adventures  Alaska Bush &amp;amp; Seaplane training Idaho&amp;rsquo;s nicest camping strips Fly around Maui County (Hawaii) Tips for taking pictures from an aircraft  Bucket List  Commercial Rating Upset and unusual attitude recovery Aerobatics  Aircrafts Owned  Maule M5-180C (Sold) Cessna 172D (1964)  Checked Out  Cessna 162 Cessna 172 (N,S) Cessna 182 (S,T) Citabria 7KCAB Piper Arrow II  Flown with CFI  Citabria 7GCBC Husky AA-1B American Champion Scout (Floatplane) Cirrus SR20 Piper PA-11S Cub Special Piper PA-22/20S Pacer (Floatplane) Piper PA-22/20 Pacer LET L-13AC Blanik (glider) Politechnika Warszawska PW-6U (glider) Cessna 185 (Floatplane)  Right Seat (passenger)  Cirrus SR22T Bonanza V35  Airports Pacific Northwest  Renton (KRNT) Pierce County (KPLU) Boeing Field (KBFI) Paine Field (KPAE) Crest (S36) Auburn (S50) Tacoma-Narrows (KTIW) Port Angeles (KCLM) Chehalis-Centralia (KCLS) Kelso Longview (KKLS) Sanderson (KSHN) Bremerton (KPWT) Skagit-Burlington (KBVS) Bellingham (KBLI) Friday Harbor (KFHR) Hoquiam (KHQM) Ocean Shores (W04) Easton (KESW) [grass] Ellensburg (KELN) Ranger Creek (21W) Packwood (55S) Auburn Academy (WA84) [grass] Astoria (KAST) Harvey Field (S43) Desert Aire (M94) Toledo (KTDO) Strom Field (39P) Swanson (2W3) Sequim Valley (W28) Jefferson County (0S9) Sky Harbor (S86) [grass] Monroe (W16) Vashon (2S1) [grass] Tieton State (4S6) [grass] Bandera (4W0) [grass] Bergseth Field (WN76) [grass] [glider] Goheen (W52) [grass] Skykomish (S88) [grass] Lake Wenatchee State (27W) [grass] Grand Coulee Dam (3W7) Deer Park (KDEW) Sullivan Lake State (09S) Olympia Rgnl (KOLM) Roche Harbor (WA09)  Idaho  Priest Lake USFS (67S) Cavanaugh Bay (66S) Sandpoint (KSZT) Johnson Creek (3U2) Smiley Creek (U87) Lewiston (KLWS) Cascade (U70)  Oregon  Troutdale (KTTD)  California  Reid-Hillview (KRHV) Frazier Lake (1C9) [grass] Salinas (KSNS) Hollister (KCVH) Columbia (O22) Pine Mountain Lake (E45)  Alaska  Talkeetna (PATK) [gravel] Herc Strip [gravel] Cash Creek Strip [gravel] Talkeetna River Gravel Bar Swan Lake Chelatna Lake Larson Lake Christiansen Lake (AK8)  Louisiana  Southern Seaplanes (65LA)  Hawaii  Kahului (PHOG/OGG) Kalaupapa (PHLU/LUP) Hana (PHHN/HNM)  Iceland  Reykjavik (BIRK)  TODO  Langley (W10) Cle Elum (S93) Cedars North (W58)  Navigation/Radio  Across the Cascades (Snoqualmie Pass, Stevens Pass, White Pass) RNT-BFI Stadiums Transition Fly around Mt Rainier SeaTac (Burien) Transition Alaska Time (Lakes, Glaciers, Mountain Flying)  TODO  Fly to Canada (and back) Public Fly-In (AOPA or other) Oshkosh  Tools  ForeFlight Stratus II Bad Elf GPS Pro Jeppesen PPL Ground School Jeppesen G1000 Bundle (VFR) MyFlightBook.</description>
+    </item>
+    
+    <item>
+      <title>Flying around Maui</title>
+      <link>//pierreca.github.io/aviation/maui_county/</link>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/aviation/maui_county/</guid>
+      <description>Flying around Maui, Molokai and Lanai If like me you would like to fly yourself around Maui, I highly recommend Maui Aviators at Kahului. The following is pretty much my recollection of the flight I did with them that includes a checkout and a slightly customized version of their Circle Maui County flight with instruction tidbits I got from the CFI I flew with, Steve Ludlow.
+Mandatory boring disclaimer: There is obviously a lot more to flying the Hawaiian islands than what is described below - this isn&amp;rsquo;t supposed to be instruction, official source of information such as charts and chart supplements, or a substitute for good ADM or risk management.</description>
+    </item>
+    
+    <item>
+      <title>Taking Pictures from Aircrafts</title>
+      <link>//pierreca.github.io/aviation/airplane_photography/</link>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/aviation/airplane_photography/</guid>
+      <description>Tips for taking pictures from airplanes and helicopters  Wear dark clothes: bright/light-colored clothes will create reflections on the windows Consider using a polarizing filter to get rid of glare (but know how to use it - and understand the consequences of it too&amp;hellip;) Go manual or go home: autofocus will be tripped by reflections and the speed at which things are moving Bracketing is of no use if you&amp;rsquo;re taking pictures of what is outside the airplane: you&amp;rsquo;re moving too fast Bracketing is great if you&amp;rsquo;re taking pictures inside the plane and still want to see what&amp;rsquo;s outside the window Bring limited gear: changing lenses and fiddling with equipment in a small cockpit is difficult Try to plan the flight and what you want to take pictures off (ask the pilot for the flight route!</description>
     </item>
     
   </channel>

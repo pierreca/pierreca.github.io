@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Making, Flying and Diving</title>
@@ -7,126 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Pierre Cauchois</copyright>
-    <lastBuildDate>Sun, 21 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//pierreca.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//pierreca.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>projects</title>
-      <link>//pierreca.github.io/projects/</link>
-      <pubDate>Sun, 21 Jun 2015 00:00:00 +0000</pubDate>
+      <title>A Simple 3D Model of the Intel Galileo Board</title>
+      <link>//pierreca.github.io/projects/galileo_3d_model/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>//pierreca.github.io/projects/</guid>
-      <description>
-
-&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/ledtac&#34;&gt;LED-lighted TAC chart for real-time weather display&lt;/a&gt; &lt;a href=&#34;https://hackaday.io/project/28354-lighted-tac-chart-with-weather-information&#34;&gt;Hackaday.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/dashboards&#34;&gt;Dashboards and utilities for jenkins and github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/SparkLedMatrix&#34;&gt;LED Matrix board driven by a Spark Core&lt;/a&gt; &lt;a href=&#34;https://hackaday.io/project/28362-particle-core-led-matrix&#34;&gt;Hackaday.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Galileo&#34;&gt;Simple 3D model of the Intel Galileo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/LightClock&#34;&gt;LightClock v2&lt;/a&gt; &lt;a href=&#34;http://www.hackster.io/pierreca/lightclock&#34;&gt;Hackster.io&lt;/a&gt;| &lt;a href=&#34;https://hackaday.io/project/2330-LightClock&#34;&gt;Hackaday.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Tyler&#34;&gt;Raspberry-Pi Home Gateway (codename Tyler)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/Peggy2GameOfLife&#34;&gt;Naive implementation of Conway&amp;rsquo;s Game Of Life on a Peggy 2 LED Matrix&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.msdn.com/b/pierreca/archive/2012/07/11/prototyping-a-connected-object-using-the-net-gadgeteer-the-example-of-a-steampunk-meteo-station.aspx&#34;&gt;.NET Gadgeteer Meteo Station&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/12/building-a-coffee-table-with-engine-blocks/&#34;&gt;Engine Coffee Table&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pierreca.github.io/blog/2014/08/05/maker-friendly-places-around-seattle/&#34;&gt;A list of interesting places for makers around Seattle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Nixie Tube Clock: &lt;a href=&#34;https://hackaday.io/project/167547-nixie-tube-clock&#34;&gt;Hackaday&lt;/a&gt; &lt;a href=&#34;https://github.com/pierreca/nixie-clock&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pierreca/logorrhea&#34;&gt;Logorrhea: A VS Code Extension to highlight logs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Azure IoT Hub and Azure IoT Hub Provisioning Service logos blinking pins&lt;/li&gt;
-&lt;li&gt;4017 circuit LED &amp;ldquo;chaser&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;595 shift register + 74LS47 7-segment display driver&lt;/li&gt;
-&lt;li&gt;Transparent Whiteboard&lt;/li&gt;
-&lt;li&gt;Netduino-Mini Crawler Bot&lt;/li&gt;
-&lt;li&gt;Arduino Crawler Bot&lt;/li&gt;
-&lt;li&gt;Makelangelo 3&lt;/li&gt;
-&lt;li&gt;Lynxmotion Johnny-5&lt;/li&gt;
-&lt;li&gt;OBD-II + GPS Car App&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;woodworking&#34;&gt;Woodworking&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nixie Tube Clock&lt;/li&gt;
-&lt;li&gt;Pocket Knife (Kit)&lt;/li&gt;
-&lt;li&gt;Hunting Knife (Kit, Woodcraft class, Knife Making with Robb Gray)&lt;/li&gt;
-&lt;li&gt;Slim-line Pen (Kit, Woodcraft class, Pen Turning 101 with John Jones)&lt;/li&gt;
-&lt;li&gt;Toolbox (Woodcraft class: Sawdust Therapy I w/ Steve Dando)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;ideas-dump&#34;&gt;Ideas dump&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;3D Flight GPS Log with Excel&lt;/li&gt;
-&lt;li&gt;Arduino Flight Logger&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;web&#34;&gt;Web&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://pierreca.github.io&#34;&gt;This blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.chateaudesarcis.com&#34;&gt;ChateauDesArcis.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs/msdn.com/pierreca&#34;&gt;My old blog (not maintained)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;apps&#34;&gt;Apps&lt;/h2&gt;
-
-&lt;h4 id=&#34;pilot-tools-https-github-com-pierreca-pilottools&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/PilotTools&#34;&gt;Pilot Tools&lt;/a&gt;&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Weather and basic flight planning for pilots.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;homecontroller-app-https-github-com-pierreca-homecontrollerapp&#34;&gt;&lt;a href=&#34;https://github.com/pierreca/HomeControllerApp&#34;&gt;HomeController App&lt;/a&gt;&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Interfaces with my now defunct home gateway project to control WeMo switches and my Sonos.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;deprecated-retired&#34;&gt;Deprecated/Retired&lt;/h2&gt;
-
-&lt;h4 id=&#34;augmented-reality-viewfinder-toolkit-windows-phone-7-5-http-arvftoolkit-codeplex-com&#34;&gt;&lt;a href=&#34;http://arvftoolkit.codeplex.com&#34;&gt;Augmented Reality ViewFinder Toolkit (Windows Phone 7.5)&lt;/a&gt;&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Lightweight C# toolkit to build Augmented reality view of geolocalized data with Windows Phone 7.5.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;techdays-2010-conference-official-application&#34;&gt;Techdays 2010 Conference Official Application&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The Microsoft Techdays is the largest tech conference in France, organized by Microsoft, where over 16,000 visitors converge each year to get the latest on Microsoft Developer and IT technologies.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;klout-kikimeter&#34;&gt;Klout Kikimeter&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Quick exploration with the Klout API&amp;hellip; more intended as a joke than anything (it&amp;rsquo;s klout&amp;hellip;)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;pachube-explorer&#34;&gt;Pachube Explorer&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Pachube is now Xively. this app allowed to list feeds, graph values, and find feeds around using Augmented Reality (really an excuse to play with the Windows Phone SDK)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;pachube-data-access-layer-http-pachubedal-codeplex-com&#34;&gt;&lt;a href=&#34;http://pachubedal.codeplex.com&#34;&gt;Pachube Data Access Layer&lt;/a&gt;&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This small .Net MicroFramework piece of code offers simplistic APIs to upload data to Pachube (now Xively).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;hackathon-achievements&#34;&gt;Hackathon Achievements&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Social app running on Windows 8 and Windows Phone 8 used during Hackathons to give &amp;ldquo;badges&amp;rdquo; to hackathons participants. When &amp;ldquo;Gamification&amp;rdquo; sounded cool. Also a nice excuse to play with Azure Mobile Services.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;wowwee-rovio-control-app&#34;&gt;Wowwee Rovio Control App&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;the Rovio from Wowwee is a little video mobile robot. this app was built to control it and look at its video feed. My Rovio died, so did the app&amp;hellip;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <guid>//pierreca.github.io/projects/galileo_3d_model/</guid>
+      <description>I published a very simplistic 3d model of Intels Galileo (v1) board on Github years ago. It was built using OpenScad and the code is available as well as the exported STL file.
+![Galileo 3D model image](https://raw.githubusercontent.com/pierreca/Galileo/master/Images/galileo_v1_3d.PNG Galileo 3D model image)
+I rely on 3D models a lot during the design of any project because its a way for me to cut on prototyping costs and times. One thing that often leaves me wanting more with a lot of projects I see from makers is the fact that it stays on a breadboard.</description>
+    </item>
+    
+    <item>
+      <title>7 Bad Reasons Not To Finish Projects And How To Finish Anyway</title>
+      <link>//pierreca.github.io/projects/bad_reasons_finish_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/projects/bad_reasons_finish_projects/</guid>
+      <description>Years of tinkering with electronics and building apps on week-ends and evenings, and recently I have found myself thinking that I never really finish anything. It has been bugging me to a point where I felt really bad about it The weird thing is, its not at all the same at work. Im focused and I always have a clear idea of whats done, whats expected and I know when and how to deliver things on time and meeting my team QA standards.</description>
+    </item>
+    
+    <item>
+      <title>Building a Coffee Table With Engine Blocks</title>
+      <link>//pierreca.github.io/projects/engine_coffee_table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/projects/engine_coffee_table/</guid>
+      <description>Ever since I had seen coffee table on the british TV show called Top Gear (made from a Jaguar V12 engine) I wanted to have an engine-based coffee table. A quick search on the Web showed that anyone can buy that for just over a thousand bucks but I also found a handful of results from people who had done that before and were showing it on some forums: so I set out to build my own.</description>
+    </item>
+    
+    <item>
+      <title>Interesting Places for Makers in Seattle</title>
+      <link>//pierreca.github.io/projects/maker_places_seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/projects/maker_places_seattle/</guid>
+      <description>18 months ago, I moved from Paris, France to Seattle, WA. Since then I&amp;rsquo;ve been working on a few personal projects that have taken me around the Seattle area in search for maker resources and shops Here&amp;rsquo;s what I found so far!
+Meetups Hardware Happy Hour HHH Meetup
+Friendly bunch of folks mostly talking about electronics and 3d printing. Meet every month either in Seattle (Optimism Brewing) or in Redmond (Postdoc brewery).</description>
     </item>
     
   </channel>

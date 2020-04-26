@@ -1,59 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diving on Making, Flying and Diving</title>
+    <title>diving on Making, Flying and Diving</title>
     <link>//pierreca.github.io/categories/diving/</link>
-    <description>Recent content in Diving on Making, Flying and Diving</description>
+    <description>Recent content in diving on Making, Flying and Diving</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Pierre Cauchois</copyright>
-    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//pierreca.github.io/categories/diving/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="//pierreca.github.io/categories/diving/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>diving</title>
+      <title>Diving</title>
       <link>//pierreca.github.io/diving/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//pierreca.github.io/diving/</guid>
-      <description>
-
-&lt;h2 id=&#34;dive-trips&#34;&gt;Dive Trips&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Maui&lt;/li&gt;
-&lt;li&gt;Big Island&lt;/li&gt;
-&lt;li&gt;Cozumel&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;pnw-dive-shops&#34;&gt;PNW Dive Shops&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Underwater Sports&lt;/li&gt;
-&lt;li&gt;8 Diving&lt;/li&gt;
-&lt;li&gt;Silent World Diving Systems&lt;/li&gt;
-&lt;li&gt;Tacoma Scuba&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;pnw-dive-sites&#34;&gt;PNW Dive Sites&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Redondo Beach&lt;/li&gt;
-&lt;li&gt;Les Davis&lt;/li&gt;
-&lt;li&gt;Three-tree&lt;/li&gt;
-&lt;li&gt;Alki Cove 2&lt;/li&gt;
-&lt;li&gt;Point Defiance North Wall (w/ Bandito Charters)&lt;/li&gt;
-&lt;li&gt;Zee&amp;rsquo;s Reef (w/ Bandito Charters)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;certifications&#34;&gt;Certifications&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Open Water Diver (SSI)&lt;/li&gt;
-&lt;li&gt;Advanced Open Water Diver (PADI)&lt;/li&gt;
-&lt;li&gt;Rescue Diver (PADI)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Where I dive, who I dive with, what I&amp;rsquo;m certified for and what I use as part of my diving experiences
+Dive Trips  Maui (w/ Lahaina Divers &amp;amp; Maui Dreams) Big Island (w/ Kona Honu Divers) Cozumel (w/ Dive Paradise)  PNW Dive Shops  Underwater Sports 8 Diving Systems Silent World Diving Systems Tacoma Scuba  PNW Dive Sites  Redondo Beach Les Davis Dickman Mills Three-tree Alki Cove 2 Point Defiance North Wall (w/ Bandito Charters) Zee&amp;rsquo;s Reef (w/ Bandito Charters) Sund Rock Lobster Shop Wall  Certifications  Open Water Diver (SSI) Advanced Open Water Diver (PADI) Rescue Diver (PADI) Advanced Nitrox and Intro to Deco Procedures (TDI)  Software  Multideco Subsurface  PNW Gear  Hollis backplate Mares single &amp;amp; double donut wings Santi e-Motion+ Dry suit 100HP single and double cylinders with Apeks XTX50 Regs AL80 and AL40 Deco cylinders with Hollis Deco Regs Hollis F1 fins  Travel Gear  Backplate or Scubapro Hydros Pro Atomics B2 Reg Scubapro Nova fins Subapro Everflex 3mm wetsuit Sharkskin  </description>
     </item>
     
   </channel>
