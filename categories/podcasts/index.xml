@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>podcasts on Making, Flying and Diving</title>
+    <title>podcasts on So much to learn, so much to do...</title>
     <link>//pierreca.github.io/categories/podcasts/</link>
-    <description>Recent content in podcasts on Making, Flying and Diving</description>
+    <description>Recent content in podcasts on So much to learn, so much to do...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>(c) 2016 Pierre Cauchois</copyright>
-    
-	<atom:link href="//pierreca.github.io/categories/podcasts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>(c) 2023 Pierre Cauchois</copyright><atom:link href="//pierreca.github.io/categories/podcasts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Podcasts</title>
       <link>//pierreca.github.io/podcasts/</link>
@@ -18,8 +14,8 @@
       
       <guid>//pierreca.github.io/podcasts/</guid>
       <description>This is a list of podcasts I listen to&amp;hellip;
-Software  Go Time JS Party  Hardware  The Amp Hour The Macrofab Engineering Podcast Embedded.fm  Infosec  Darknet Diaries Malicious Life Unnamed Reverse Engineering Podcast Hackable  Dropped Off&amp;hellip; Loved these but there are only so many hours in the week and it doesn&amp;rsquo;t necessarily relate to my interests (as much) anymore.
- Test &amp;amp; Code Coding Blocks Talk Python to Me Python Bytes HBR Ideacast Dear HBR Developer Tea Hidden Brain (NPR) TED Radio Hour (NPR) Freakonomics Radio Making it with Jimmy Di Resta, Bob Clagett and David Picciuto  </description>
+Software Go Time JS Party Hardware The Amp Hour The Macrofab Engineering Podcast Embedded.fm Infosec Darknet Diaries Malicious Life Unnamed Reverse Engineering Podcast Hackable Dropped Off&amp;hellip; Loved these but there are only so many hours in the week and it doesn&amp;rsquo;t necessarily relate to my interests (as much) anymore.
+Test &amp;amp; Code Coding Blocks Talk Python to Me Python Bytes HBR Ideacast Dear HBR Developer Tea Hidden Brain (NPR) TED Radio Hour (NPR) Freakonomics Radio Making it with Jimmy Di Resta, Bob Clagett and David Picciuto </description>
     </item>
     
   </channel>

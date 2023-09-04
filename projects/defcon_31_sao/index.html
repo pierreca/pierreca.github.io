@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    
+    <link rel="canonical" href="//pierreca.github.io/projects/defcon_31_sao/">
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.117.0">
+
+    
+    
+    
+
+<title>Building an S.A.O. for the Defcon 31 Badge • So much to learn, so much to do...</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Building an S.A.O. for the Defcon 31 Badge"/>
+<meta name="twitter:description" content="My first attempt at producing something to give to other people at a conference"/>
+
+<meta property="og:title" content="Building an S.A.O. for the Defcon 31 Badge" />
+<meta property="og:description" content="My first attempt at producing something to give to other people at a conference" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="//pierreca.github.io/projects/defcon_31_sao/" /><meta property="article:section" content="projects" />
+
+
+
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.3081c4981fb69a2783dd36ecfdd0e6ba7a158d4cbfdd290ebce8f78ba0469fc6.css" integrity="sha256-MIHEmB&#43;2mieD3Tbs/dDmunoVjUy/3SkOvOj3i6BGn8Y=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class="theme-base-0d layout-reverse">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="//pierreca.github.io/">
+        
+          So much to learn, so much to do...
+        
+        </a>
+      </span>
+      
+      
+      <p class="site__description">
+        
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">So much to learn, so much to do...</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/aviation">
+						<span>Aviation</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/bookshelf">
+						<span>Bookshelf</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/diving">
+						<span>Diving</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/podcasts">
+						<span>Podcasts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/projects">
+						<span>Projects</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="/woodworking">
+						<span>Woodworking</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	
+	
+	
+	<a href="https://github.com/pierreca" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/pierrecauchois" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Building an S.A.O. for the Defcon 31 Badge</h1>
+    
+    
+<div class="post__meta">
+    
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/projects">PROJECTS</a>
+              
+          
+      
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 6 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <p>Over the course of my career I have been to a number of conferences, as an attendee, a vendor, and a speaker. I love conferences. In recent years though, my job hasn&rsquo;t encouraged participating, so I found myself curating conferences I would want to go to for personal reasons rather than professional ones. The Hackaday Supercon, Crowdsupply Teardown, and Defcon, always make the list. There are &ldquo;grown up&rdquo; conferences for makers. Unlike Maker Faires, which are more and more geared towards kids and education, Those conferences are meant for adult enthusiasts (kids are welcome anyways but they&rsquo;re not the focus), and are meant for enthusiasts and engineers to get together and showcase, share and have fun with tech.</p>
+<p>Defcon introduced electronic badges many years ago, and from there spawned a &ldquo;movement&rdquo;, #badgelife, that many conferences have embraced. Now most of these conferences sport electronic badges, and there are many &ldquo;unofficial&rdquo; badges built by villages, local defcon chapters, enthusiasts, etc. These badges blend art, technology and often hacking. Some have become collectibles.</p>
+<p>Those badges have extension ports, that allow smaller circuits to be plugged into them. These smaller circuits are jokingly referred to as &ldquo;Shitty Add-Ons&rdquo; or SAOs, and they are cheaper and easier to make, and represent an entrypoint into #badgelife for people who would like to participate. I always wanted to make one.</p>
+<p>Lo and behold, Defcon 31 badge was announced: and it wasn&rsquo;t an electronic badge. A work of art none-the-less, but not a blinky one. For my first SAO, I wouldn&rsquo;t rely on the SAO standard then, and would make a self contained blinky thing that would fit in the &ldquo;port&rdquo; left open for creativity. Details <a href="https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20badge/">here</a>.</p>
+<p>Having made a last minute decision to attend Defcon this year (due to a broken wrist) I had 2 weeks to build something.</p>
+<p>It would have to fit into the badge &ldquo;chamber&rdquo; so I decided to make it 3 parts:</p>
+<ul>
+<li>A PCB whose only goal would be to light up 1 LED</li>
+<li>A &ldquo;shard&rdquo; that would be a 3d printed flat part that would fit solidly into the chamber and would be used to &ldquo;hold&rdquo; the PCB in place</li>
+<li>A 3D printed accessory mounted on the LED bulb itself</li>
+</ul>
+<p>I set a goal for myself to produce 30 units and give them to people who were being nice or showing cool things at Defcon 31. (Spoiler alert: I ran out by the end of day 2). Here&rsquo;s the result:</p>
+<p><img src="/projects/defcon_31_sao_imgs/sao_lit.jpeg" alt="SAO with the LED shining through" title="SAO with the LED shining through">
+<img src="/projects/defcon_31_sao_imgs/sao_glow.jpeg" alt="SAO glowing with the LED turned off" title="SAO glowing with the LED turned off"></p>
+<p>With only 14 days to the conference, I had to make 30 units in 1 go.</p>
+<h1 id="the-pcb">The PCB</h1>
+<p>The fastest PCB fab I knew how to use is Oshpark&rsquo;s in fast turnaround mode, which takes about 5 business days. That would eat into half the alloted time already, and I had one chance at getting it right. Having designed very few, uber simple PCBs in the past, i knew I had to keep it extremely simple as I couldn&rsquo;t afford to make multiple prototypes. I also had to use parts already on my shelves to avoid delivery times. I figured I wouldn&rsquo;t have time for an MCU based thing, so I went for the simplest design I could do with parts I already had:</p>
+<ul>
+<li>CR2012 batteries (and battery holders)</li>
+<li>Micro-switches</li>
+<li>Color-changing LEDs that don&rsquo;t require current-limiting resistors.</li>
+</ul>
+<p>Here are the design files: <a href="https://github.com/pierreca/defcon31_sao">3D models and KiCad project on Github</a></p>
+<p>Unfortunately Fedex did not do me a solid and even though I had paid for overnight shipping, I had ignored the fact that this was a business service that doesn&rsquo;t deliver on the weekend. So my one assembly weekend was spent experimenting with the 3D design of the shard and accessory, and I would have to solder all 3 PCBs in the 2 days before my flight out.</p>
+<h1 id="the-shard">The shard</h1>
+<p>The shard design itself was meant to be a simple flat part that would fit into the chamber and hold the PCB: another redditor had already made 3d models that I could start from and posted them on thingiverse: <a href="https://www.thingiverse.com/thing:6060558">https://www.thingiverse.com/thing:6060558</a></p>
+<p>Using Kicad 3d visualization feature, I was able to export a 3D model of the PCB.</p>
+<p>I then imported both the shard design and the PCB STL files into Shapr3D and went through 3 iterations to find a proper mounting mechanism. I wanted to avoid fasteners, so it would have to be friction-fit.</p>
+<ul>
+<li>The first design was kindof stupid: for the sake of leaving the PCB exposed, i had to make smaller brackets, and a weirdly shaped cutout for the micro-switch and battery:</li>
+<li>The second design was much better: PCB can fit squarely in the back, only the LED gets exposed in the front, but it wasn&rsquo;t placed correctly in the chamber (too high)</li>
+<li>The third design did the trick: the shard provided a nice even surface with only an LED poking out. the PCB was easy to insert from the back. I had arranged reliefs to make manipulating the switch and changing the battery simpler.</li>
+</ul>
+<p><img src="/projects/defcon_31_sao_imgs/shard_iterations.jpeg" alt="3 iterations of the design of the shard" title="3 iterations of the design of the shard"></p>
+<p>As seen from the back, with the PCB inserted:</p>
+<p><img src="/projects/defcon_31_sao_imgs/shard_back.jpeg" alt="Back of the shard, with the PCB inserted" title="Back of the shard, with the PCB inserted"></p>
+<h1 id="the-accessory">The accessory</h1>
+<p>I initially had the idea of printing multiple accessories and letting recipients of the SAO choose their preferred one, but I was also struggling with the choice of material. Transparent filament isn&rsquo;t really transparent (not glass-like anyways) and doesn&rsquo;t look nice lit from behind. Glow in the dark filament had a nice diffusion factor to it and had the benefit of still shining a bit even if the LED was off. Out of the 2 I picked, one of them was a nightmare to print with, consistently clogging the nozzle. So I ended up with [Glow in the dark PETG from Sainsmart](TODO Link). By the time i was done experimenting with filaments, I had only one design: a tiny &ldquo;Defcon Jack&rdquo; that i had lifted from the defcon logo and rendered in 3D in Shapr3D. I figured it would do the trick and that I didn&rsquo;t need to find other accessories.</p>
+<p><img src="/projects/defcon_31_sao_imgs/shard_front.jpeg" alt="Shard with the defcon jack accessory" title="Shard with the defcon jack accessory"></p>
+<h1 id="test-fit">Test fit</h1>
+<p>In order to make sure the design worked, I printed 2 version of the &ldquo;chamber&rdquo;:</p>
+<ul>
+<li>The STL File directly from the Defcon media server</li>
+<li>Another version that was split in 2 parts by another redditor</li>
+</ul>
+<p><img src="/projects/defcon_31_sao_imgs/chamber_1.jpeg" alt="3D Printed chambers for the test fit" title="3D Printed chambers for the test fit">
+<img src="/projects/defcon_31_sao_imgs/chamber_2.jpeg" alt="3D Printed chambers for the test fit" title="3D Printed chambers for the test fit"></p>
+<p>If the SAO fit both versions, I was decently sure I had done what I could</p>
+<h1 id="packaging">Packaging</h1>
+<p>As the deadline approached I realize fishing 3 different parts to be assembled from a loose bag would be a poor experience, so I decided to package each SAO individually. In doing this I was reminded that packaging will be the first impression, and I decided to improve the value of the package a bit: on top of the SAO, I would add a UV lamp (to prime the &ldquo;glow-in-the-dark&rdquo; accessory), a spare battery, and for a lucky few, a second accessory from the limited quantity of glow-in-the-dark PLA prints that didn&rsquo;t fail.</p>
+<p>Here&rsquo;s the result:</p>
+<p><img src="/projects/defcon_31_sao_imgs/packaged.jpeg" alt="Package" title="Package">
+<img src="/projects/defcon_31_sao_imgs/package_content.jpeg" alt="Content of the package" title="Content of the package"></p>
+<p>I decided to not include any reference to social media (I don&rsquo;t actively maintain any social media account) or myself (in case people hated it or it caught fire etc). Turns out it didn&rsquo;t catch fire, people loved it, and I wasted an opportunity to stay in touch with the fine folks I met. Lesson learned. I will sign my work in the future.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/projects/casios/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Customizing Iconic Casio Watches</span>
+    </a>
+    
+    
+    <a href="/projects/engine_coffee_table/" class="navigation-next">
+      <span class="navigation-tittle">Building a Coffee Table With Engine Blocks</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+<script defer src="https://use.fontawesome.com/releases/v5.12.1/js/all.js" integrity="sha384-ZbbbT1gw3joYkKRqh0kWyRp32UAvdqkpbLedQJSlnI8iLQcFVxaGyrOgOJiDQTTR" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

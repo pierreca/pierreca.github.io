@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reading on Making, Flying and Diving</title>
+    <title>reading on So much to learn, so much to do...</title>
     <link>//pierreca.github.io/categories/reading/</link>
-    <description>Recent content in reading on Making, Flying and Diving</description>
+    <description>Recent content in reading on So much to learn, so much to do...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>(c) 2016 Pierre Cauchois</copyright>
-    
-	<atom:link href="//pierreca.github.io/categories/reading/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>(c) 2023 Pierre Cauchois</copyright><atom:link href="//pierreca.github.io/categories/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reads</title>
-      <link>//pierreca.github.io/reads/</link>
+      <title>Bookshelf</title>
+      <link>//pierreca.github.io/bookshelf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//pierreca.github.io/reads/</guid>
-      <description>Finished Management &amp;amp; Tech  Hooked: How to Build Habit-Forming Products (Nir Eyal) Stop the BS (Shane Mac) The Burning Entrepreneur (Brad Feld) Hit Refresh (Satya Nadella) Mindset: The New Psychology of Success (Carol S. Dweck) Non-Violent Communication (Marshall B. Rosenberg) Tribal Leadership (Dave Logan, John King, Halee Fischer-Wright) Never Split the Difference: Negotiating As If Your Life Depended On It (Chris Voss) The Manager&amp;rsquo;s Path (Camille Fournier) Talking with Tech Leads: From Novices to Practitioners (Patrick Kua) First, Break All the Rules (Gallup Press) Leaders Eat Last (Simon Sinek) Rework (Jason Fried) Switch: How to Change Things When Change Is Hard (Chip &amp;amp; Dan Heath) The Power of When (Michael Breus) The Mythical Man-Month (Fred Brooks) The Effective Executive (Peter Drucker) Accelerate: The Science of Lean Software and Devops (Nicole Forsgren, PhD with Jez Humble and Gene Kim) Designing Distributed Systems (Brendan Burns) Zero Trust Networks: Building Secure Systems in Untrusted Networks (Evan Gilman, Doug Barth)  Making  The Hardware Hacker (Andrew &amp;ldquo;bunnie&amp;rdquo; Huang) Maker Pro: Essays on Making a Living as a Maker (John Baichtal &amp;amp; others) Every Tool&amp;rsquo;s a Hammer: Life is What You Make It (Adam Savage) Good Clean Fun: Misadventures in Sawdust At Offerman Woodshop (Nick Offerman)  Fiction  Zen and the Art of Motorcycle Maintenance (Robert M.</description>
+      <guid>//pierreca.github.io/bookshelf/</guid>
+      <description>In no particular order, what&amp;rsquo;s on my bookshelves. Generally speaking, those I like more will find their way to the top of each list.
+Rating system:
+All time favorite. Dare I say, lifechanging: ❤ Insightful: 🤯 Practical: 🛠 Management When I became the manager of a team back during my time at Microsoft, I had confidence in my technical abilities, but not really in my ability to be of service for the people who now reported to me.</description>
     </item>
     
   </channel>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi, I&#39;m Pierre on Making, Flying and Diving</title>
+    <title>Hi, I&#39;m Pierre on So much to learn, so much to do...</title>
     <link>//pierreca.github.io/</link>
-    <description>Recent content in Hi, I&#39;m Pierre on Making, Flying and Diving</description>
+    <description>Recent content in Hi, I&#39;m Pierre on So much to learn, so much to do...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>(c) 2016 Pierre Cauchois</copyright>
-    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="//pierreca.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>(c) 2023 Pierre Cauchois</copyright>
+    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="//pierreca.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flying around Maui</title>
       <link>//pierreca.github.io/aviation/maui_county/</link>
@@ -28,7 +24,7 @@ Mandatory boring disclaimer: There is obviously a lot more to flying the Hawaiia
       <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>//pierreca.github.io/aviation/airplane_photography/</guid>
-      <description>Tips for taking pictures from airplanes and helicopters  Wear dark clothes: bright/light-colored clothes will create reflections on the windows Consider using a polarizing filter to get rid of glare (but know how to use it - and understand the consequences of it too&amp;hellip;) Go manual or go home: autofocus will be tripped by reflections and the speed at which things are moving Bracketing is of no use if you&amp;rsquo;re taking pictures of what is outside the airplane: you&amp;rsquo;re moving too fast Bracketing is great if you&amp;rsquo;re taking pictures inside the plane and still want to see what&amp;rsquo;s outside the window Bring limited gear: changing lenses and fiddling with equipment in a small cockpit is difficult Try to plan the flight and what you want to take pictures off (ask the pilot for the flight route!</description>
+      <description>Tips for taking pictures from airplanes and helicopters Wear dark clothes: bright/light-colored clothes will create reflections on the windows Consider using a polarizing filter to get rid of glare (but know how to use it - and understand the consequences of it too&amp;hellip;) Go manual or go home: autofocus will be tripped by reflections and the speed at which things are moving Bracketing is of no use if you&amp;rsquo;re taking pictures of what is outside the airplane: you&amp;rsquo;re moving too fast Bracketing is great if you&amp;rsquo;re taking pictures inside the plane and still want to see what&amp;rsquo;s outside the window Bring limited gear: changing lenses and fiddling with equipment in a small cockpit is difficult Try to plan the flight and what you want to take pictures off (ask the pilot for the flight route!</description>
     </item>
     
     <item>
@@ -43,12 +39,14 @@ I rely on 3D models a lot during the design of any project because its a way for
     </item>
     
     <item>
-      <title>7 Bad Reasons Not To Finish Projects And How To Finish Anyway</title>
-      <link>//pierreca.github.io/projects/bad_reasons_finish_projects/</link>
+      <title>Bookshelf</title>
+      <link>//pierreca.github.io/bookshelf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//pierreca.github.io/projects/bad_reasons_finish_projects/</guid>
-      <description>Years of tinkering with electronics and building apps on week-ends and evenings, and recently I have found myself thinking that I never really finish anything. It has been bugging me to a point where I felt really bad about it The weird thing is, its not at all the same at work. Im focused and I always have a clear idea of whats done, whats expected and I know when and how to deliver things on time and meeting my team QA standards.</description>
+      <guid>//pierreca.github.io/bookshelf/</guid>
+      <description>In no particular order, what&amp;rsquo;s on my bookshelves. Generally speaking, those I like more will find their way to the top of each list.
+Rating system:
+All time favorite. Dare I say, lifechanging: ❤ Insightful: 🤯 Practical: 🛠 Management When I became the manager of a team back during my time at Microsoft, I had confidence in my technical abilities, but not really in my ability to be of service for the people who now reported to me.</description>
     </item>
     
     <item>
@@ -61,13 +59,31 @@ I rely on 3D models a lot during the design of any project because its a way for
     </item>
     
     <item>
+      <title>Building an S.A.O. for the Defcon 31 Badge</title>
+      <link>//pierreca.github.io/projects/defcon_31_sao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/projects/defcon_31_sao/</guid>
+      <description>Over the course of my career I have been to a number of conferences, as an attendee, a vendor, and a speaker. I love conferences. In recent years though, my job hasn&amp;rsquo;t encouraged participating, so I found myself curating conferences I would want to go to for personal reasons rather than professional ones. The Hackaday Supercon, Crowdsupply Teardown, and Defcon, always make the list. There are &amp;ldquo;grown up&amp;rdquo; conferences for makers.</description>
+    </item>
+    
+    <item>
+      <title>Customizing Iconic Casio Watches</title>
+      <link>//pierreca.github.io/projects/casios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/projects/casios/</guid>
+      <description>I don&amp;rsquo;t know if there are more popular, more pervasive watches than the Casio F91-W and A178-W models. I had one as a kid, like millions of other people, and loved it, but didn&amp;rsquo;t think much about it when I grew up. Until I met Joey Castillo and his project, Sensor Watch at the Hackaday Supercon 2022. Joey and the sensor-watch contributors designed a replacement PCB for those Casio models, with a programmable MCU and an extension port that could be used for example for a temperature sensor.</description>
+    </item>
+    
+    <item>
       <title>Diving</title>
       <link>//pierreca.github.io/diving/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//pierreca.github.io/diving/</guid>
       <description>Where I dive, who I dive with, what I&amp;rsquo;m certified for and what I use as part of my diving experiences
-Dive Trips  Maui (w/ Lahaina Divers &amp;amp; Maui Dreams) Big Island (w/ Kona Honu Divers) Cozumel (w/ Dive Paradise)  PNW Dive Shops  Underwater Sports 8 Diving Systems Silent World Diving Systems Tacoma Scuba  PNW Dive Sites  Redondo Beach Les Davis Dickman Mills Three-tree Alki Cove 2 Point Defiance North Wall (w/ Bandito Charters) Zee&amp;rsquo;s Reef (w/ Bandito Charters) Sund Rock Lobster Shop Wall  Certifications  Open Water Diver (SSI) Advanced Open Water Diver (PADI) Rescue Diver (PADI) Advanced Nitrox and Intro to Deco Procedures (TDI)  Software  Multideco Subsurface  PNW Gear  Hollis backplate Mares single &amp;amp; double donut wings Santi e-Motion+ Dry suit 100HP single and double cylinders with Apeks XTX50 Regs AL80 and AL40 Deco cylinders with Hollis Deco Regs Hollis F1 fins  Travel Gear  Backplate or Scubapro Hydros Pro Atomics B2 Reg Scubapro Nova fins Subapro Everflex 3mm wetsuit Sharkskin  </description>
+Dive Trips Maui (w/ Lahaina Divers &amp;amp; Maui Dreams) Big Island (w/ Kona Honu Divers) Cozumel (w/ Dive Paradise) PNW Dive Shops Underwater Sports 8 Diving Systems Silent World Diving Systems Tacoma Scuba PNW Dive Sites Redondo Beach Les Davis Dickman Mills Three-tree Alki Cove 2 Point Defiance North Wall (w/ Bandito Charters) Zee&amp;rsquo;s Reef (w/ Bandito Charters) Sund Rock Lobster Shop Wall Certifications Open Water Diver (SSI) Advanced Open Water Diver (PADI) Rescue Diver (PADI) Advanced Nitrox and Intro to Deco Procedures (TDI) Software Multideco Subsurface PNW Gear Hollis backplate Mares single &amp;amp; double donut wings Santi e-Motion+ Dry suit 100HP single and double cylinders with Apeks XTX50 Regs AL80 and AL40 Deco cylinders with Hollis Deco Regs Hollis F1 fins Travel Gear Backplate or Scubapro Hydros Pro Atomics B2 Reg Scubapro Nova fins Subapro Everflex 3mm wetsuit Sharkskin </description>
     </item>
     
     <item>
@@ -82,23 +98,32 @@ Friendly bunch of folks mostly talking about electronics and 3d printing. Meet e
     </item>
     
     <item>
+      <title>Mountain-Biking</title>
+      <link>//pierreca.github.io/mtb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/mtb/</guid>
+      <description>Getting back into mountain-biking in my late 30&amp;rsquo;s after a nearly 15 year hiatus was the best thing I did for my mental health. For many reasons I&amp;rsquo;m a happier person when I can ride a bike. There&amp;rsquo;s even decent science to explain why. It&amp;rsquo;s not just the fitness aspect, but also the chemical cocktail generated by &amp;ldquo;flow sports&amp;rdquo; that is guaranteed to have a positive impact on mood as well.</description>
+    </item>
+    
+    <item>
       <title>Podcasts</title>
       <link>//pierreca.github.io/podcasts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//pierreca.github.io/podcasts/</guid>
       <description>This is a list of podcasts I listen to&amp;hellip;
-Software  Go Time JS Party  Hardware  The Amp Hour The Macrofab Engineering Podcast Embedded.fm  Infosec  Darknet Diaries Malicious Life Unnamed Reverse Engineering Podcast Hackable  Dropped Off&amp;hellip; Loved these but there are only so many hours in the week and it doesn&amp;rsquo;t necessarily relate to my interests (as much) anymore.
- Test &amp;amp; Code Coding Blocks Talk Python to Me Python Bytes HBR Ideacast Dear HBR Developer Tea Hidden Brain (NPR) TED Radio Hour (NPR) Freakonomics Radio Making it with Jimmy Di Resta, Bob Clagett and David Picciuto  </description>
+Software Go Time JS Party Hardware The Amp Hour The Macrofab Engineering Podcast Embedded.fm Infosec Darknet Diaries Malicious Life Unnamed Reverse Engineering Podcast Hackable Dropped Off&amp;hellip; Loved these but there are only so many hours in the week and it doesn&amp;rsquo;t necessarily relate to my interests (as much) anymore.
+Test &amp;amp; Code Coding Blocks Talk Python to Me Python Bytes HBR Ideacast Dear HBR Developer Tea Hidden Brain (NPR) TED Radio Hour (NPR) Freakonomics Radio Making it with Jimmy Di Resta, Bob Clagett and David Picciuto </description>
     </item>
     
     <item>
-      <title>Reads</title>
-      <link>//pierreca.github.io/reads/</link>
+      <title>Woodworking</title>
+      <link>//pierreca.github.io/woodworking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//pierreca.github.io/reads/</guid>
-      <description>Finished Management &amp;amp; Tech  Hooked: How to Build Habit-Forming Products (Nir Eyal) Stop the BS (Shane Mac) The Burning Entrepreneur (Brad Feld) Hit Refresh (Satya Nadella) Mindset: The New Psychology of Success (Carol S. Dweck) Non-Violent Communication (Marshall B. Rosenberg) Tribal Leadership (Dave Logan, John King, Halee Fischer-Wright) Never Split the Difference: Negotiating As If Your Life Depended On It (Chris Voss) The Manager&amp;rsquo;s Path (Camille Fournier) Talking with Tech Leads: From Novices to Practitioners (Patrick Kua) First, Break All the Rules (Gallup Press) Leaders Eat Last (Simon Sinek) Rework (Jason Fried) Switch: How to Change Things When Change Is Hard (Chip &amp;amp; Dan Heath) The Power of When (Michael Breus) The Mythical Man-Month (Fred Brooks) The Effective Executive (Peter Drucker) Accelerate: The Science of Lean Software and Devops (Nicole Forsgren, PhD with Jez Humble and Gene Kim) Designing Distributed Systems (Brendan Burns) Zero Trust Networks: Building Secure Systems in Untrusted Networks (Evan Gilman, Doug Barth)  Making  The Hardware Hacker (Andrew &amp;ldquo;bunnie&amp;rdquo; Huang) Maker Pro: Essays on Making a Living as a Maker (John Baichtal &amp;amp; others) Every Tool&amp;rsquo;s a Hammer: Life is What You Make It (Adam Savage) Good Clean Fun: Misadventures in Sawdust At Offerman Woodshop (Nick Offerman)  Fiction  Zen and the Art of Motorcycle Maintenance (Robert M.</description>
+      <guid>//pierreca.github.io/woodworking/</guid>
+      <description>My foray into woodworking started with the need to create a nicer box for the nixie clock I had built. it was also a good excuse to learn how to use a laser cutter for thin wood stock. Learning about various wood species and finishing techniques got me more interested in the medium and I found myself wanting to build more things out of wood. This led me to take a few classes, and I started thinking of small things I could make in the space I had at the time, that could become gifts for friends and family.</description>
     </item>
     
   </channel>

@@ -1,90 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>//pierreca.github.io/aviation/</loc>
-    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>//pierreca.github.io/categories/aviation/</loc>
     <lastmod>2015-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//pierreca.github.io/aviation/</loc>
+    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//pierreca.github.io/categories/</loc>
     <lastmod>2015-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pierreca.github.io/aviation/maui_county/</loc>
     <lastmod>2015-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pierreca.github.io/</loc>
     <lastmod>2015-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pierreca.github.io/aviation/airplane_photography/</loc>
     <lastmod>2015-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pierreca.github.io/projects/galileo_3d_model/</loc>
     <lastmod>2014-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/projects/</loc>
-    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pierreca.github.io/categories/projects/</loc>
     <lastmod>2014-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/projects/bad_reasons_finish_projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//pierreca.github.io/projects/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pierreca.github.io/bookshelf/</loc>
+  </url><url>
     <loc>//pierreca.github.io/projects/engine_coffee_table/</loc>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/diving/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//pierreca.github.io/projects/defcon_31_sao/</loc>
+  </url><url>
+    <loc>//pierreca.github.io/projects/casios/</loc>
+  </url><url>
     <loc>//pierreca.github.io/categories/diving/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//pierreca.github.io/diving/</loc>
+  </url><url>
     <loc>//pierreca.github.io/projects/maker_places_seattle/</loc>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/podcasts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//pierreca.github.io/mtb/</loc>
+  </url><url>
+    <loc>//pierreca.github.io/categories/mtb/</loc>
+  </url><url>
     <loc>//pierreca.github.io/categories/podcasts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//pierreca.github.io/podcasts/</loc>
+  </url><url>
     <loc>//pierreca.github.io/categories/reading/</loc>
-  </url>
-  
-  <url>
-    <loc>//pierreca.github.io/reads/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pierreca.github.io/tags/</loc>
+  </url><url>
+    <loc>//pierreca.github.io/woodworking/</loc>
   </url>
-  
 </urlset>

@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Making, Flying and Diving</title>
+    <title>Categories on So much to learn, so much to do...</title>
     <link>//pierreca.github.io/categories/</link>
-    <description>Recent content in Categories on Making, Flying and Diving</description>
+    <description>Recent content in Categories on So much to learn, so much to do...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>(c) 2016 Pierre Cauchois</copyright>
-    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="//pierreca.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>(c) 2023 Pierre Cauchois</copyright>
+    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="//pierreca.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>aviation</title>
       <link>//pierreca.github.io/categories/aviation/</link>
@@ -36,6 +32,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//pierreca.github.io/categories/diving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mtb</title>
+      <link>//pierreca.github.io/categories/mtb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//pierreca.github.io/categories/mtb/</guid>
       <description></description>
     </item>
     
