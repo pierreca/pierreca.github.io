@@ -4,58 +4,45 @@
     <title>Projects on So much to learn!</title>
     <link>//pierreca.github.io/projects/</link>
     <description>Recent content in Projects on So much to learn!</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>(c) 2023 Pierre Cauchois</copyright>
-    <lastBuildDate>Tue, 02 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="//pierreca.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//pierreca.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Simple 3D Model of the Intel Galileo Board</title>
       <link>//pierreca.github.io/projects/galileo_3d_model/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/projects/galileo_3d_model/</guid>
-      <description>I published a very simplistic 3d model of Intels Galileo (v1) board on Github years ago. It was built using OpenScad and the code is available as well as the exported STL file.
-![Galileo 3D model image](https://raw.githubusercontent.com/pierreca/Galileo/master/Images/galileo_v1_3d.PNG Galileo 3D model image)
-I rely on 3D models a lot during the design of any project because its a way for me to cut on prototyping costs and times. One thing that often leaves me wanting more with a lot of projects I see from makers is the fact that it stays on a breadboard.</description>
+      <description>I published a very simplistic 3d model of Intels Galileo (v1) board on Github years ago. It was built using OpenScad and the code is available as well as the exported STL file.&#xA;![Galileo 3D model image](https://raw.githubusercontent.com/pierreca/Galileo/master/Images/galileo_v1_3d.PNG Galileo 3D model image)&#xA;I rely on 3D models a lot during the design of any project because its a way for me to cut on prototyping costs and times. One thing that often leaves me wanting more with a lot of projects I see from makers is the fact that it stays on a breadboard.</description>
     </item>
-    
     <item>
       <title>Building a Coffee Table With Engine Blocks</title>
       <link>//pierreca.github.io/projects/engine_coffee_table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/projects/engine_coffee_table/</guid>
       <description>Ever since I had seen coffee table on the british TV show called Top Gear (made from a Jaguar V12 engine) I wanted to have an engine-based coffee table. A quick search on the Web showed that anyone can buy that for just over a thousand bucks but I also found a handful of results from people who had done that before and were showing it on some forums: so I set out to build my own.</description>
     </item>
-    
     <item>
       <title>Building an S.A.O. for the Defcon 31 Badge</title>
       <link>//pierreca.github.io/projects/defcon_31_sao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/projects/defcon_31_sao/</guid>
       <description>Over the course of my career I have been to a number of conferences, as an attendee, a vendor, and a speaker. I love conferences. In recent years though, my job hasn&amp;rsquo;t encouraged participating, so I found myself curating conferences I would want to go to for personal reasons rather than professional ones. The Hackaday Supercon, Crowdsupply Teardown, and Defcon, always make the list. There are &amp;ldquo;grown up&amp;rdquo; conferences for makers.</description>
     </item>
-    
     <item>
       <title>Customizing Iconic Casio Watches</title>
       <link>//pierreca.github.io/projects/casios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/projects/casios/</guid>
       <description>I don&amp;rsquo;t know if there are more popular, more pervasive watches than the Casio F91-W and A178-W models. I had one as a kid, like millions of other people, and loved it, but didn&amp;rsquo;t think much about it when I grew up. Until I met Joey Castillo and his project, Sensor Watch at the Hackaday Supercon 2022. Joey and the sensor-watch contributors designed a replacement PCB for those Casio models, with a programmable MCU and an extension port that could be used for example for a temperature sensor.</description>
     </item>
-    
     <item>
       <title>Interesting Places for Makers in Seattle</title>
       <link>//pierreca.github.io/projects/maker_places_seattle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/projects/maker_places_seattle/</guid>
-      <description>18 months ago, I moved from Paris, France to Seattle, WA. Since then I&amp;rsquo;ve been working on a few personal projects that have taken me around the Seattle area in search for maker resources and shops Here&amp;rsquo;s what I found so far!
-Meetups Hardware Happy Hour HHH Meetup
-Friendly bunch of folks mostly talking about electronics and 3d printing. Meet every month either in Seattle (Optimism Brewing) or in Redmond (Postdoc brewery).</description>
+      <description>18 months ago, I moved from Paris, France to Seattle, WA. Since then I&amp;rsquo;ve been working on a few personal projects that have taken me around the Seattle area in search for maker resources and shops Here&amp;rsquo;s what I found so far!&#xA;Meetups Hardware Happy Hour HHH Meetup&#xA;Friendly bunch of folks mostly talking about electronics and 3d printing. Meet every month either in Seattle (Optimism Brewing) or in Redmond (Postdoc brewery).</description>
     </item>
-    
   </channel>
 </rss>

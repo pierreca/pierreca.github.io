@@ -4,63 +4,52 @@
     <title>Categories on So much to learn!</title>
     <link>//pierreca.github.io/categories/</link>
     <description>Recent content in Categories on So much to learn!</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>(c) 2023 Pierre Cauchois</copyright>
-    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="//pierreca.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//pierreca.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>aviation</title>
+      <title>Aviation</title>
       <link>//pierreca.github.io/categories/aviation/</link>
-      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//pierreca.github.io/categories/aviation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>projects</title>
+      <title>Projects</title>
       <link>//pierreca.github.io/categories/projects/</link>
-      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//pierreca.github.io/categories/projects/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>diving</title>
+      <title>Diving</title>
       <link>//pierreca.github.io/categories/diving/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/categories/diving/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mtb</title>
+      <title>Mtb</title>
       <link>//pierreca.github.io/categories/mtb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/categories/mtb/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>podcasts</title>
+      <title>Podcasts</title>
       <link>//pierreca.github.io/categories/podcasts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/categories/podcasts/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>reading</title>
+      <title>Reading</title>
       <link>//pierreca.github.io/categories/reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/categories/reading/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reading on So much to learn!</title>
+    <title>Reading on So much to learn!</title>
     <link>//pierreca.github.io/categories/reading/</link>
-    <description>Recent content in reading on So much to learn!</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Reading on So much to learn!</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>(c) 2023 Pierre Cauchois</copyright><atom:link href="//pierreca.github.io/categories/reading/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) 2023 Pierre Cauchois</copyright>
+    <atom:link href="//pierreca.github.io/categories/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bookshelf</title>
       <link>//pierreca.github.io/bookshelf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>//pierreca.github.io/bookshelf/</guid>
-      <description>In no particular order, what&amp;rsquo;s on my bookshelves. Generally speaking, those I like more will find their way to the top of each list.
-Rating system:
-All time favorite. Dare I say, lifechanging: ❤ Insightful: 🤯 Practical: 🛠 Management When I became the manager of a team back during my time at Microsoft, I had confidence in my technical abilities, but not really in my ability to be of service for the people who now reported to me.</description>
+      <description>In no particular order, what&amp;rsquo;s on my bookshelves. Generally speaking, those I like more will find their way to the top of each list.&#xA;Rating system:&#xA;All time favorite. Dare I say, lifechanging: ❤ Insightful: 🤯 Practical: 🛠 Management When I became the manager of a team back during my time at Microsoft, I had confidence in my technical abilities, but not really in my ability to be of service for the people who now reported to me.</description>
     </item>
-    
   </channel>
 </rss>

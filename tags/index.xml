@@ -4,8 +4,9 @@
     <title>Tags on So much to learn!</title>
     <link>//pierreca.github.io/tags/</link>
     <description>Recent content in Tags on So much to learn!</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>(c) 2023 Pierre Cauchois</copyright><atom:link href="//pierreca.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) 2023 Pierre Cauchois</copyright>
+    <atom:link href="//pierreca.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
